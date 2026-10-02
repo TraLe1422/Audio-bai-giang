@@ -504,6 +504,13 @@
   "ban_doc": "Bạn hãy sắp xếp các hành động của thần Trụ Trời theo đúng trình tự."
  },
  {
+  "ma": "M6.BQ1",
+  "cho": "Mục 6 · Cốt truyện và sự kiện · phân tích sau C6_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Cốt truyện là chuỗi sự kiện → Chuỗi hành động nối tiếp nhau: \"đội trời lên\" → \"đắp thành một cái cột\" → \"phá cột đá đi\" → \"ném vung đá và đất đi khắp mọi nơi\".",
+  "ban_doc": "Cốt truyện là chuỗi sự kiện, Chuỗi hành động nối tiếp nhau: đội trời lên, đắp thành một cái cột, phá cột đá đi, ném vung đá và đất đi khắp mọi nơi."
+ },
+ {
   "ma": "M6.09",
   "cho": "Mục 6 · Cốt truyện và sự kiện · câu hỏi C6_Q2",
   "nguon": "CV",
@@ -607,6 +614,13 @@
   "nguon": "CV",
   "doc": "Mỗi nội dung dưới đây là thành phần nào của câu chuyện?",
   "ban_doc": "Mỗi nội dung dưới đây là thành phần nào của câu chuyện?"
+ },
+ {
+  "ma": "M7.BQ2",
+  "cho": "Mục 7 · Truyện kể và câu chuyện · phân tích sau C7_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Câu chuyện, gồm các thành phần: bối cảnh: thời trời đất vừa phân khai; nhân vật: thần Trụ Trời; hành động: ném đá và đất; diễn biến: đá và đất hoá thành núi, đảo, cồn đồi; thông điệp: lí giải vì sao mặt đất \"chỗ cao, chỗ thấp\".",
+  "ban_doc": "Câu chuyện, gồm các thành phần: bối cảnh: thời trời đất vừa phân khai; nhân vật: thần Trụ Trời; hành động: ném đá và đất; diễn biến: đá và đất hoá thành núi, đảo, cồn đồi; thông điệp: lí giải vì sao mặt đất chỗ cao, chỗ thấp."
  },
  {
   "ma": "M7.12",
@@ -798,6 +812,13 @@
   "ban_doc": "Ví dụ một thể hiện thủ pháp nào?"
  },
  {
+  "ma": "M9.BQ2",
+  "cho": "Mục 9 · Thủ pháp xây dựng nhân vật · phân tích sau C9_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Cường điệu, phóng đại → Chỉ \"chỗ thần đào lên để lấy đất đá\" mà thành \"biển cả\". Quy mô hành động được nói quá lên đến tầm vũ trụ.",
+  "ban_doc": "Cường điệu, phóng đại, Chỉ chỗ thần đào lên để lấy đất đá mà thành biển cả. Quy mô hành động được nói quá lên đến tầm vũ trụ."
+ },
+ {
   "ma": "M9.08",
   "cho": "Mục 9 · Thủ pháp xây dựng nhân vật · kết luận",
   "nguon": "CV",
@@ -980,11 +1001,25 @@
   "ban_doc": "Từ 'Thuở ấy' không chỉ một mốc thời gian cụ thể. Đây là biểu hiện của tính chất nào?"
  },
  {
+  "ma": "M12.BQ1",
+  "cho": "Mục 12 · Thời gian · phân tích sau C12_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Phiếm chỉ → \"Thuở ấy\" không chỉ một mốc thời gian cụ thể.",
+  "ban_doc": "Phiếm chỉ, Thuở ấy không chỉ một mốc thời gian cụ thể."
+ },
+ {
   "ma": "M12.06",
   "cho": "Mục 12 · Thời gian · câu hỏi C12_Q2",
   "nguon": "CV",
   "doc": "tính ước lệ: một tính chất hay đặc điểm của sáng tác nghệ thuật nói chung, thể hiện rõ nét đặc thù của ngôn ngữ hay hình tượng trong tác phẩm, so với ngôn ngữ hay đối tượng tồn tại trong [ô].",
   "ban_doc": "tính ước lệ: một tính chất hay đặc điểm của sáng tác nghệ thuật nói chung, thể hiện rõ nét đặc thù của ngôn ngữ hay hình tượng trong tác phẩm, so với ngôn ngữ hay đối tượng tồn tại trong [ô]."
+ },
+ {
+  "ma": "M12.BQ2",
+  "cho": "Mục 12 · Thời gian · phân tích sau C12_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Ước lệ → Mốc \"chưa có vũ trụ, chưa có muôn vật và loài người\" không tồn tại trong đời sống thực tế.",
+  "ban_doc": "Ước lệ, Mốc chưa có vũ trụ, chưa có muôn vật và loài người không tồn tại trong đời sống thực tế."
  },
  {
   "ma": "M12.07",

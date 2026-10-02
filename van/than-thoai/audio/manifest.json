@@ -503,6 +503,13 @@
   "can_nghe": false,
   "cho": "Mục 6 · Cốt truyện và sự kiện · câu hỏi C6_Q1"
  },
+ "M6.BQ1": {
+  "file": "M6-BQ1.mp3",
+  "giay": 9.51,
+  "tieng_moi_giay": 3.47,
+  "can_nghe": false,
+  "cho": "Mục 6 · Cốt truyện và sự kiện · phân tích sau C6_Q1 (chỉ đọc, không ghi lên màn)"
+ },
  "M6.09": {
   "file": "M6-09.mp3",
   "giay": 5.66,
@@ -607,6 +614,13 @@
   "tieng_moi_giay": 4.03,
   "can_nghe": false,
   "cho": "Mục 7 · Truyện kể và câu chuyện · câu hỏi C7_Q2"
+ },
+ "M7.BQ2": {
+  "file": "M7-BQ2.mp3",
+  "giay": 13.11,
+  "tieng_moi_giay": 3.66,
+  "can_nghe": false,
+  "cho": "Mục 7 · Truyện kể và câu chuyện · phân tích sau C7_Q2 (chỉ đọc, không ghi lên màn)"
  },
  "M7.12": {
   "file": "M7-12.mp3",
@@ -797,6 +811,13 @@
   "can_nghe": false,
   "cho": "Mục 9 · Thủ pháp xây dựng nhân vật · câu hỏi C9_Q2"
  },
+ "M9.BQ2": {
+  "file": "M9-BQ2.mp3",
+  "giay": 7.75,
+  "tieng_moi_giay": 3.74,
+  "can_nghe": false,
+  "cho": "Mục 9 · Thủ pháp xây dựng nhân vật · phân tích sau C9_Q2 (chỉ đọc, không ghi lên màn)"
+ },
  "M9.08": {
   "file": "M9-08.mp3",
   "giay": 5.6,
@@ -979,12 +1000,26 @@
   "can_nghe": false,
   "cho": "Mục 12 · Thời gian · câu hỏi C12_Q1"
  },
+ "M12.BQ1": {
+  "file": "M12-BQ1.mp3",
+  "giay": 3.15,
+  "tieng_moi_giay": 3.81,
+  "can_nghe": false,
+  "cho": "Mục 12 · Thời gian · phân tích sau C12_Q1 (chỉ đọc, không ghi lên màn)"
+ },
  "M12.06": {
   "file": "M12-06.mp3",
   "giay": 10.58,
   "tieng_moi_giay": 3.97,
   "can_nghe": false,
   "cho": "Mục 12 · Thời gian · câu hỏi C12_Q2"
+ },
+ "M12.BQ2": {
+  "file": "M12-BQ2.mp3",
+  "giay": 5.75,
+  "tieng_moi_giay": 3.82,
+  "can_nghe": false,
+  "cho": "Mục 12 · Thời gian · phân tích sau C12_Q2 (chỉ đọc, không ghi lên màn)"
  },
  "M12.07": {
   "file": "M12-07.mp3",
