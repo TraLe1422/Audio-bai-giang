@@ -1,0 +1,1675 @@
+[
+ {
+  "ma": "MĐ.01",
+  "cho": "Màn mở đầu: bản đồ",
+  "nguon": "AI",
+  "doc": "Thuở xa xưa, khi trời đất chỉ là một đám hỗn độn tối tăm và lạnh lẽo, người xưa đã kể những câu chuyện đầu tiên để lí giải thế giới quanh mình.",
+  "ban_doc": "Thuở xa xưa, khi trời đất chỉ là một đám hỗn độn tối tăm và lạnh lẽo, người xưa đã kể những câu chuyện đầu tiên để lí giải thế giới quanh mình."
+ },
+ {
+  "ma": "MĐ.02",
+  "cho": "Màn mở đầu: bản đồ",
+  "nguon": "AI",
+  "doc": "Hành trình của bạn đi qua năm chặng.",
+  "ban_doc": "Hành trình của bạn đi qua năm chặng."
+ },
+ {
+  "ma": "MĐ.03",
+  "cho": "Màn mở đầu: bản đồ",
+  "nguon": "AI",
+  "doc": "Chặng một, Thuở hỗn mang.",
+  "ban_doc": "Chặng một, Thuở hỗn mang."
+ },
+ {
+  "ma": "MĐ.04",
+  "cho": "Màn mở đầu: bản đồ",
+  "nguon": "AI",
+  "doc": "Chặng hai, Người anh hùng và câu chuyện.",
+  "ban_doc": "Chặng hai, Người anh hùng và câu chuyện."
+ },
+ {
+  "ma": "MĐ.05",
+  "cho": "Màn mở đầu: bản đồ",
+  "nguon": "AI",
+  "doc": "Chặng ba, Nhân vật và sự kì ảo.",
+  "ban_doc": "Chặng ba, Nhân vật và sự kì ảo."
+ },
+ {
+  "ma": "MĐ.06",
+  "cho": "Màn mở đầu: bản đồ",
+  "nguon": "AI",
+  "doc": "Chặng bốn, Không gian, thời gian và lời kể.",
+  "ban_doc": "Chặng bốn, Không gian, thời gian và lời kể."
+ },
+ {
+  "ma": "MĐ.07",
+  "cho": "Màn mở đầu: bản đồ",
+  "nguon": "AI",
+  "doc": "Chặng năm, Phân loại và cách đọc một truyện thần thoại.",
+  "ban_doc": "Chặng năm, Phân loại và cách đọc một truyện thần thoại."
+ },
+ {
+  "ma": "MĐ.08",
+  "cho": "Màn mở đầu: bản đồ",
+  "nguon": "AI",
+  "doc": "Bạn hãy chạm vào một chặng để bắt đầu. Nhưng nên bắt đầu từ chặng một là tốt nhất nhé!",
+  "ban_doc": "Bạn hãy chạm vào một chặng để bắt đầu. Nhưng nên bắt đầu từ chặng một là tốt nhất nhé!"
+ },
+ {
+  "ma": "PH.01",
+  "cho": "Phản hồi dùng chung (khi trả lời đúng)",
+  "nguon": "CV",
+  "doc": "Chính xác!",
+  "ban_doc": "Chính xác!"
+ },
+ {
+  "ma": "PH.02",
+  "cho": "Phản hồi dùng chung (sai lần 1, 2)",
+  "nguon": "CV",
+  "doc": "Chưa đúng, bạn thử lại nhé.",
+  "ban_doc": "Chưa đúng, bạn thử lại nhé."
+ },
+ {
+  "ma": "C1.MO",
+  "cho": "Mở Chặng 1 · Thuở hỗn mang",
+  "nguon": "AI",
+  "doc": "Bạn vừa thấy thần Trụ Trời đội trời lên từ đám hỗn mang. Ở chặng một, chúng ta sẽ đi vào câu hỏi đầu tiên: thần thoại là gì, và người xưa đã tưởng tượng ra thần thoại từ đâu.",
+  "ban_doc": "Bạn vừa thấy thần Trụ Trời đội trời lên từ đám hỗn mang. Ở chặng một, chúng ta sẽ đi vào câu hỏi đầu tiên: thần thoại là gì, và người xưa đã tưởng tượng ra thần thoại từ đâu."
+ },
+ {
+  "ma": "M0.01",
+  "cho": "Mục 0 · Mở đầu, toàn cảnh cây 4 nhánh · mở mục",
+  "nguon": "AI",
+  "doc": "Trước khi lên đường, hãy nhìn lại toàn cảnh. Kiến thức về thần thoại là một cái cây có bốn nhánh, và mỗi nhánh sẽ dẫn đến những kiến thức mà bạn sẽ ôn lại.",
+  "ban_doc": "Trước khi lên đường, hãy nhìn lại toàn cảnh. Kiến thức về thần thoại là một cái cây có bốn nhánh, và mỗi nhánh sẽ dẫn đến những kiến thức mà bạn sẽ ôn lại."
+ },
+ {
+  "ma": "M0.02",
+  "cho": "Mục 0 · Mở đầu, toàn cảnh cây 4 nhánh · gốc cây",
+  "nguon": "CV",
+  "doc": "thần thoại: là thể loại truyện kể xa xưa nhất, thể hiện quan niệm về vũ trụ và khát vọng chinh phục thế giới tự nhiên của các thị tộc, bộ lạc thời nguyên thuỷ.",
+  "ban_doc": "thần thoại: là thể loại truyện kể xa xưa nhất, thể hiện quan niệm về vũ trụ và khát vọng chinh phục thế giới tự nhiên của các thị tộc, bộ lạc thời nguyên thuỷ."
+ },
+ {
+  "ma": "M1.01",
+  "cho": "Mục 1 · Khái niệm · mở mục",
+  "nguon": "AI",
+  "doc": "Bên bếp lửa của thị tộc, những câu chuyện đầu tiên đã ra đời. Và chúng ta cũng bắt đầu bằng định nghĩa của thể loại.",
+  "ban_doc": "Bên bếp lửa của thị tộc, những câu chuyện đầu tiên đã ra đời. Và chúng ta cũng bắt đầu bằng định nghĩa của thể loại."
+ },
+ {
+  "ma": "M1.02",
+  "cho": "Mục 1 · Khái niệm · lí thuyết",
+  "nguon": "CV",
+  "doc": "Thần thoại là thể loại truyện kể ra đời sớm nhất kể về thế giới thần linh, thể hiện quan niệm về vũ trụ và nhân sinh của người xưa.",
+  "ban_doc": "Thần thoại là thể loại truyện kể ra đời sớm nhất kể về thế giới thần linh, thể hiện quan niệm về vũ trụ và nhân sinh của người xưa."
+ },
+ {
+  "ma": "M1.03",
+  "cho": "Mục 1 · Khái niệm · lí thuyết",
+  "nguon": "CV",
+  "doc": "thần thoại: thể hiện quan niệm về vũ trụ và khát vọng chinh phục thế giới tự nhiên của các thị tộc, bộ lạc thời nguyên thuỷ.",
+  "ban_doc": "thần thoại: thể hiện quan niệm về vũ trụ và khát vọng chinh phục thế giới tự nhiên của các thị tộc, bộ lạc thời nguyên thuỷ."
+ },
+ {
+  "ma": "M1.04",
+  "cho": "Mục 1 · Khái niệm · câu hỏi C1_Q1",
+  "nguon": "CV",
+  "doc": "Theo SGK Ngữ Văn 10, thần thoại thể hiện quan niệm về vũ trụ và khát vọng nào của các thị tộc, bộ lạc thời nguyên thuỷ?",
+  "ban_doc": "Theo sách giáo khoa Ngữ Văn mười, thần thoại thể hiện quan niệm về vũ trụ và khát vọng nào của các thị tộc, bộ lạc thời nguyên thuỷ?"
+ },
+ {
+  "ma": "M1.05",
+  "cho": "Mục 1 · Khái niệm · câu hỏi C1_Q2",
+  "nguon": "CV",
+  "doc": "thần thoại: thể loại truyện kể [ô 1], thể hiện quan niệm về vũ trụ và khát vọng chinh phục thế giới tự nhiên của các [ô 2] thời nguyên thuỷ.",
+  "ban_doc": "thần thoại: thể loại truyện kể chỗ trống, thể hiện quan niệm về vũ trụ và khát vọng chinh phục thế giới tự nhiên của các chỗ trống thời nguyên thuỷ."
+ },
+ {
+  "ma": "M1.06",
+  "cho": "Mục 1 · Khái niệm · kết luận",
+  "nguon": "CV",
+  "doc": "thần thoại: thể loại truyện kể xa xưa nhất, thể hiện quan niệm về vũ trụ và khát vọng chinh phục thế giới tự nhiên của các thị tộc, bộ lạc thời nguyên thuỷ.",
+  "ban_doc": "thần thoại: thể loại truyện kể xa xưa nhất, thể hiện quan niệm về vũ trụ và khát vọng chinh phục thế giới tự nhiên của các thị tộc, bộ lạc thời nguyên thuỷ."
+ },
+ {
+  "ma": "M2.01",
+  "cho": "Mục 2 · Cơ sở của sự tưởng tượng · mở mục",
+  "nguon": "AI",
+  "doc": "Gió lúc hiền lúc dữ, và người xưa đã tưởng tượng ra thần Gió. Trí tưởng tượng ấy dựa trên những cơ sở nào?",
+  "ban_doc": "Gió lúc hiền lúc dữ, và người xưa đã tưởng tượng ra thần Gió. Trí tưởng tượng ấy dựa trên những cơ sở nào?"
+ },
+ {
+  "ma": "M2.02",
+  "cho": "Mục 2 · Cơ sở của sự tưởng tượng · lí thuyết",
+  "nguon": "CV",
+  "doc": "Ba cơ sở của sự tưởng tượng: / + Đặc điểm nổi bật của các hiện tượng tự nhiên. / + Thế giới quan \"vạn vật hữu linh\". / + Thực tế cuộc sống lao động của người nguyên thuỷ.",
+  "ban_doc": "Ba cơ sở của sự tưởng tượng: Đặc điểm nổi bật của các hiện tượng tự nhiên. Thế giới quan vạn vật hữu linh. Thực tế cuộc sống lao động của người nguyên thuỷ."
+ },
+ {
+  "ma": "M2.03",
+  "cho": "Mục 2 · Cơ sở của sự tưởng tượng · câu hỏi C2_Q1",
+  "nguon": "CV",
+  "doc": "Mỗi chi tiết dưới đây thể hiện cơ sở nào của sự tưởng tượng?",
+  "ban_doc": "Mỗi chi tiết dưới đây thể hiện cơ sở nào của sự tưởng tượng?"
+ },
+ {
+  "ma": "M2.04",
+  "cho": "Mục 2 · Cơ sở của sự tưởng tượng · phân tích sau C2_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Thần Gió: hình dạng dị thường \"không có đầu\", thất thường; có đứa con nghịch ngợm gây hoạ.",
+  "ban_doc": "Thần Gió: hình dạng dị thường không có đầu, thất thường; có đứa con nghịch ngợm gây hoạ."
+ },
+ {
+  "ma": "M2.05",
+  "cho": "Mục 2 · Cơ sở của sự tưởng tượng · phân tích sau C2_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Đặc điểm nổi bật của các hiện tượng tự nhiên → Hiện tượng tự nhiên ở đây là gió. Đặc điểm nổi bật là tính thất thường: \"gió nhỏ hay bão lớn, lâu hay mau\".",
+  "ban_doc": "Đặc điểm nổi bật của các hiện tượng tự nhiên, Hiện tượng tự nhiên ở đây là gió. Đặc điểm nổi bật là tính thất thường: gió nhỏ hay bão lớn, lâu hay mau."
+ },
+ {
+  "ma": "M2.06",
+  "cho": "Mục 2 · Cơ sở của sự tưởng tượng · phân tích sau C2_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Thế giới quan \"vạn vật hữu linh\" → Gió được hình dung thành một vị thần có đời sống như con người: có hình dạng riêng: \"không có đầu\"; có đồ vật riêng: \"quạt màu nhiệm\"; có con: \"con thần Gió\"; chịu sự cai quản: \"tuỳ theo lệnh Ngọc Hoàng\".",
+  "ban_doc": "Thế giới quan vạn vật hữu linh, Gió được hình dung thành một vị thần có đời sống như con người: có hình dạng riêng: không có đầu; có đồ vật riêng: quạt màu nhiệm; có con: con thần Gió; chịu sự cai quản: tuỳ theo lệnh Ngọc Hoàng."
+ },
+ {
+  "ma": "M2.07",
+  "cho": "Mục 2 · Cơ sở của sự tưởng tượng · phân tích sau C2_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Thực tế cuộc sống lao động của người nguyên thuỷ → Truyện gắn với công việc chăn nuôi và chăm sóc gia súc: con thần Gió bị phạt \"đi chăn trâu\"; người ta dùng lá ngải chữa khi \"trâu bị cảm gió\".",
+  "ban_doc": "Thực tế cuộc sống lao động của người nguyên thuỷ, Truyện gắn với công việc chăn nuôi và chăm sóc gia súc: con thần Gió bị phạt đi chăn trâu; người ta dùng lá ngải chữa khi trâu bị cảm gió."
+ },
+ {
+  "ma": "M2.08",
+  "cho": "Mục 2 · Cơ sở của sự tưởng tượng · kết luận",
+  "nguon": "CV",
+  "doc": "Trí tưởng tượng trong thần thoại dựa trên ba cơ sở: đặc điểm nổi bật của các hiện tượng tự nhiên, thế giới quan \"vạn vật hữu linh\" và thực tế cuộc sống lao động của người nguyên thuỷ. Trong Thần Gió, tính thất thường của gió, hình ảnh vị thần có đời sống như con người và chi tiết chăn trâu, chữa bệnh cho trâu đều được tạo nên từ ba cơ sở ấy.",
+  "ban_doc": "Trí tưởng tượng trong thần thoại dựa trên ba cơ sở: đặc điểm nổi bật của các hiện tượng tự nhiên, thế giới quan vạn vật hữu linh và thực tế cuộc sống lao động của người nguyên thuỷ. Trong Thần Gió, tính thất thường của gió, hình ảnh vị thần có đời sống như con người và chi tiết chăn trâu, chữa bệnh cho trâu đều được tạo nên từ ba cơ sở ấy."
+ },
+ {
+  "ma": "M3.01",
+  "cho": "Mục 3 · Quan niệm, nhận thức, khát vọng, thái độ với tự nhiên · mở mục",
+  "nguon": "AI",
+  "doc": "Trời đất trong mắt người xưa trông ra sao, và họ nhìn thiên nhiên bằng thái độ như thế nào? Thần Trụ Trời và thần Sét sẽ giúp bạn trả lời câu hỏi đó.",
+  "ban_doc": "Trời đất trong mắt người xưa trông ra sao, và họ nhìn thiên nhiên bằng thái độ như thế nào? Thần Trụ Trời và thần Sét sẽ giúp bạn trả lời câu hỏi đó."
+ },
+ {
+  "ma": "M3.02",
+  "cho": "Mục 3 · Quan niệm, nhận thức, khát vọng, thái độ với tự nhiên · lí thuyết",
+  "nguon": "CV",
+  "doc": "Quan niệm, nhận thức: vũ trụ lớn lao, bí ẩn, đáng sợ; thế giới quan \"vạn vật hữu linh\"; tư duy chất phác, hồn nhiên. / Khát vọng: nhận thức, lí giải và chinh phục tự nhiên. / Thái độ với thiên nhiên: vừa sợ hãi, sùng bái, vừa khát khao khám phá.",
+  "ban_doc": "Quan niệm, nhận thức: vũ trụ lớn lao, bí ẩn, đáng sợ; thế giới quan vạn vật hữu linh; tư duy chất phác, hồn nhiên. Khát vọng: nhận thức, lí giải và chinh phục tự nhiên. Thái độ với thiên nhiên: vừa sợ hãi, sùng bái, vừa khát khao khám phá."
+ },
+ {
+  "ma": "M3.03",
+  "cho": "Mục 3 · Quan niệm, nhận thức, khát vọng, thái độ với tự nhiên · lí thuyết",
+  "nguon": "CV",
+  "doc": "Nội dung: phản ánh nhận thức, cách lí giải thế giới và khát vọng chinh phục tự nhiên của người Việt cổ; niềm tin \"vạn vật hữu linh\".",
+  "ban_doc": "Nội dung: phản ánh nhận thức, cách lí giải thế giới và khát vọng chinh phục tự nhiên của người Việt cổ; niềm tin vạn vật hữu linh."
+ },
+ {
+  "ma": "M3.04",
+  "cho": "Mục 3 · Quan niệm, nhận thức, khát vọng, thái độ với tự nhiên · câu hỏi C3_Q1",
+  "nguon": "CV",
+  "doc": "Mỗi chi tiết dưới đây thể hiện phương diện nào?",
+  "ban_doc": "Mỗi chi tiết dưới đây thể hiện phương diện nào?"
+ },
+ {
+  "ma": "M3.05",
+  "cho": "Mục 3 · Quan niệm, nhận thức, khát vọng, thái độ với tự nhiên · phân tích sau C3_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Quan niệm vũ trụ lớn lao, bí ẩn, đáng sợ → Vũ trụ thuở ban đầu là \"một đám hỗn độn tối tăm và lạnh lẽo\".",
+  "ban_doc": "Quan niệm vũ trụ lớn lao, bí ẩn, đáng sợ, Vũ trụ thuở ban đầu là một đám hỗn độn tối tăm và lạnh lẽo."
+ },
+ {
+  "ma": "M3.06",
+  "cho": "Mục 3 · Quan niệm, nhận thức, khát vọng, thái độ với tự nhiên · phân tích sau C3_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Tư duy chất phác, hồn nhiên → Vũ trụ được hình dung bằng đồ vật quen thuộc: đất như \"cái mâm vuông\", trời như \"cái bát úp\".",
+  "ban_doc": "Tư duy chất phác, hồn nhiên, Vũ trụ được hình dung bằng đồ vật quen thuộc: đất như cái mâm vuông, trời như cái bát úp."
+ },
+ {
+  "ma": "M3.07",
+  "cho": "Mục 3 · Quan niệm, nhận thức, khát vọng, thái độ với tự nhiên · phân tích sau C3_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Khát vọng nhận thức, lí giải → Người xưa gọi tên và giải thích cấu trúc vũ trụ: trời, đất, và \"chỗ giáp giới giữa trời và đất gọi là chân trời\".",
+  "ban_doc": "Khát vọng nhận thức, lí giải, Người xưa gọi tên và giải thích cấu trúc vũ trụ: trời, đất, và chỗ giáp giới giữa trời và đất gọi là chân trời."
+ },
+ {
+  "ma": "M3.08",
+  "cho": "Mục 3 · Quan niệm, nhận thức, khát vọng, thái độ với tự nhiên · phân tích sau C3_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Khát vọng chinh phục → Người hạ giới \"bắt chước tiếng gọi gà để doạ thần\".",
+  "ban_doc": "Khát vọng chinh phục, Người hạ giới bắt chước tiếng gọi gà để doạ thần."
+ },
+ {
+  "ma": "M3.09",
+  "cho": "Mục 3 · Quan niệm, nhận thức, khát vọng, thái độ với tự nhiên · câu hỏi C3_Q2",
+  "nguon": "CV",
+  "doc": "Thái độ với thiên nhiên: vừa [ô 1], vừa [ô 2].",
+  "ban_doc": "Thái độ với thiên nhiên: vừa chỗ trống, vừa chỗ trống."
+ },
+ {
+  "ma": "M3.10",
+  "cho": "Mục 3 · Quan niệm, nhận thức, khát vọng, thái độ với tự nhiên · phân tích sau C3_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Thái độ sợ hãi, sùng bái → Thần Sét là vị thần \"cực oai, cực dữ\"; con người phải tìm cách \"doạ thần\" mỗi khi \"có chớp rạch\".",
+  "ban_doc": "Thái độ sợ hãi, sùng bái, Thần Sét là vị thần cực oai, cực dữ; con người phải tìm cách doạ thần mỗi khi có chớp rạch."
+ },
+ {
+  "ma": "M3.11",
+  "cho": "Mục 3 · Quan niệm, nhận thức, khát vọng, thái độ với tự nhiên · phân tích sau C3_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Thái độ khát khao khám phá → Thể hiện qua nỗ lực lí giải nguồn gốc trời đất và chân trời ở đoạn trích Thần Trụ Trời.",
+  "ban_doc": "Thái độ khát khao khám phá, Thể hiện qua nỗ lực lí giải nguồn gốc trời đất và chân trời ở đoạn trích Thần Trụ Trời."
+ },
+ {
+  "ma": "M3.12",
+  "cho": "Mục 3 · Quan niệm, nhận thức, khát vọng, thái độ với tự nhiên · kết luận",
+  "nguon": "CV",
+  "doc": "Thần thoại phản ánh quan niệm, nhận thức của người xưa về một vũ trụ lớn lao, bí ẩn, đáng sợ, với thế giới quan \"vạn vật hữu linh\" và lối tư duy chất phác, hồn nhiên. Qua đó, thần thoại thể hiện khát vọng nhận thức, lí giải và chinh phục tự nhiên, cùng thái độ vừa sợ hãi, sùng bái, vừa khát khao khám phá.",
+  "ban_doc": "Thần thoại phản ánh quan niệm, nhận thức của người xưa về một vũ trụ lớn lao, bí ẩn, đáng sợ, với thế giới quan vạn vật hữu linh và lối tư duy chất phác, hồn nhiên. Qua đó, thần thoại thể hiện khát vọng nhận thức, lí giải và chinh phục tự nhiên, cùng thái độ vừa sợ hãi, sùng bái, vừa khát khao khám phá."
+ },
+ {
+  "ma": "C2.MO",
+  "cho": "Mở Chặng 2 · Người anh hùng và câu chuyện",
+  "nguon": "AI",
+  "doc": "Trời đất đã phân, giờ chúng ta sang chặng hai. Ở đây có một người anh hùng bước vào Mê cung, và câu chuyện được kể thành các chuỗi sự kiện.",
+  "ban_doc": "Trời đất đã phân, giờ chúng ta sang chặng hai. Ở đây có một người anh hùng bước vào Mê cung, và câu chuyện được kể thành các chuỗi sự kiện."
+ },
+ {
+  "ma": "M4.01",
+  "cho": "Mục 4 · Sức hấp dẫn và quan niệm về người anh hùng · mở mục",
+  "nguon": "AI",
+  "doc": "Một chàng trai bước vào Mê cung với một cuộn chỉ. Câu chuyện của Tê-dê cho bạn thấy vì sao thần thoại hấp dẫn, và người Hy Lạp cổ nghĩ gì về người anh hùng.",
+  "ban_doc": "Một chàng trai bước vào Mê cung với một cuộn chỉ. Câu chuyện của Tê-dê cho bạn thấy vì sao thần thoại hấp dẫn, và người Hy Lạp cổ nghĩ gì về người anh hùng."
+ },
+ {
+  "ma": "M4.02",
+  "cho": "Mục 4 · Sức hấp dẫn và quan niệm về người anh hùng · lí thuyết",
+  "nguon": "CV",
+  "doc": "Yếu tố hấp dẫn: là kì tích phi thường, tình tiết li kì, yếu tố kì ảo.",
+  "ban_doc": "Yếu tố hấp dẫn: là kì tích phi thường, tình tiết li kì, yếu tố kì ảo."
+ },
+ {
+  "ma": "M4.03",
+  "cho": "Mục 4 · Sức hấp dẫn và quan niệm về người anh hùng · lí thuyết",
+  "nguon": "CV",
+  "doc": "Phẩm chất người anh hùng và quan niệm của người Hy Lạp cổ: dũng cảm, mưu trí, hào hiệp, vì cộng đồng.",
+  "ban_doc": "Phẩm chất người anh hùng và quan niệm của người Hy Lạp cổ: dũng cảm, mưu trí, hào hiệp, vì cộng đồng."
+ },
+ {
+  "ma": "M4.04",
+  "cho": "Mục 4 · Sức hấp dẫn và quan niệm về người anh hùng · câu hỏi C4_Q1",
+  "nguon": "CV",
+  "doc": "Chi tiết nào trong Ví dụ 1 và Ví dụ 2 thể hiện yếu tố kì ảo?",
+  "ban_doc": "Chi tiết nào trong Ví dụ một và Ví dụ hai thể hiện yếu tố kì ảo?"
+ },
+ {
+  "ma": "M4.05",
+  "cho": "Mục 4 · Sức hấp dẫn và quan niệm về người anh hùng · phân tích sau C4_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Yếu tố kì ảo → Quái vật Mi-nô-tơ có hình dạng \"một nửa hình bò mộng, một nửa hình người\".",
+  "ban_doc": "Yếu tố kì ảo, Quái vật Mi-nô-tơ có hình dạng một nửa hình bò mộng, một nửa hình người."
+ },
+ {
+  "ma": "M4.06",
+  "cho": "Mục 4 · Sức hấp dẫn và quan niệm về người anh hùng · phân tích sau C4_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Kì tích phi thường → Tê-dê \"dùng nắm tay – chàng chẳng có vũ khí nào khác – đấm con quái vật cho đến chết\", một mình và không có vũ khí.",
+  "ban_doc": "Kì tích phi thường, Tê-dê dùng nắm tay, chàng chẳng có vũ khí nào khác, đấm con quái vật cho đến chết, một mình và không có vũ khí."
+ },
+ {
+  "ma": "M4.07",
+  "cho": "Mục 4 · Sức hấp dẫn và quan niệm về người anh hùng · phân tích sau C4_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Tình tiết li kì → Tê-dê vào và ra khỏi Mê cung nhờ \"một cuộn chỉ mà chàng sẽ buộc một đầu vào bên trong cánh cửa và sẽ trải dần ra trong lúc bước đi\".",
+  "ban_doc": "Tình tiết li kì, Tê-dê vào và ra khỏi Mê cung nhờ một cuộn chỉ mà chàng sẽ buộc một đầu vào bên trong cánh cửa và sẽ trải dần ra trong lúc bước đi."
+ },
+ {
+  "ma": "M4.08",
+  "cho": "Mục 4 · Sức hấp dẫn và quan niệm về người anh hùng · câu hỏi C4_Q2",
+  "nguon": "CV",
+  "doc": "Ví dụ 3 thể hiện những phẩm chất nào của Tê-dê? (Chọn tất cả đáp án đúng)",
+  "ban_doc": "Ví dụ ba thể hiện những phẩm chất nào của Tê-dê? (Chọn tất cả đáp án đúng)."
+ },
+ {
+  "ma": "M4.09",
+  "cho": "Mục 4 · Sức hấp dẫn và quan niệm về người anh hùng · phân tích sau C4_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Dũng cảm → Tê-dê \"tức thời bước tới tự nguyện làm một trong các nạn nhân\".",
+  "ban_doc": "Dũng cảm, Tê-dê tức thời bước tới tự nguyện làm một trong các nạn nhân."
+ },
+ {
+  "ma": "M4.10",
+  "cho": "Mục 4 · Sức hấp dẫn và quan niệm về người anh hùng · phân tích sau C4_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Hào hiệp → Mọi người \"mến yêu lòng tốt của chàng và khâm phục sự cao thượng của chàng\".",
+  "ban_doc": "Hào hiệp, Mọi người mến yêu lòng tốt của chàng và khâm phục sự cao thượng của chàng."
+ },
+ {
+  "ma": "M4.11",
+  "cho": "Mục 4 · Sức hấp dẫn và quan niệm về người anh hùng · phân tích sau C4_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Vì cộng đồng → Chàng tự nguyện đi cùng các nạn nhân với ý định giết con quái vật đang đe doạ thanh niên A-ten, điều mà \"không ai có ý nghĩ rằng\" chàng sẽ làm.",
+  "ban_doc": "Vì cộng đồng, Chàng tự nguyện đi cùng các nạn nhân với ý định giết con quái vật đang đe doạ thanh niên A-ten, điều mà không ai có ý nghĩ rằng chàng sẽ làm."
+ },
+ {
+  "ma": "M4.12",
+  "cho": "Mục 4 · Sức hấp dẫn và quan niệm về người anh hùng · kết luận",
+  "nguon": "CV",
+  "doc": "Truyện thần thoại hấp dẫn nhờ kì tích phi thường, tình tiết li kì và yếu tố kì ảo, như việc Tê-dê tay không đấm chết quái vật, cuộn chỉ giúp chàng ra khỏi Mê cung và hình dạng nửa bò mộng, nửa người của Mi-nô-tơ. Qua hình tượng Tê-dê, người Hy Lạp cổ quan niệm người anh hùng là người dũng cảm, mưu trí, hào hiệp, vì cộng đồng.",
+  "ban_doc": "Truyện thần thoại hấp dẫn nhờ kì tích phi thường, tình tiết li kì và yếu tố kì ảo, như việc Tê-dê tay không đấm chết quái vật, cuộn chỉ giúp chàng ra khỏi Mê cung và hình dạng nửa bò mộng, nửa người của Mi-nô-tơ. Qua hình tượng Tê-dê, người Hy Lạp cổ quan niệm người anh hùng là người dũng cảm, mưu trí, hào hiệp, vì cộng đồng."
+ },
+ {
+  "ma": "M5.01",
+  "cho": "Mục 5 · Tính nguyên hợp · mở mục",
+  "nguon": "AI",
+  "doc": "Một ngọn núi có thật, một vị thần, một danh xưng gắn với tôn giáo, cùng nằm trong một câu chuyện. Mục này nói về tính nguyên hợp.",
+  "ban_doc": "Một ngọn núi có thật, một vị thần, một danh xưng gắn với tôn giáo, cùng nằm trong một câu chuyện. Mục này nói về tính nguyên hợp."
+ },
+ {
+  "ma": "M5.02",
+  "cho": "Mục 5 · Tính nguyên hợp · lí thuyết",
+  "nguon": "CV",
+  "doc": "Khái niệm: Nguyên hợp là tình trạng nhiều yếu tố khác nhau \"có sự hòa lẫn, trộn lẫn với nhau một cách tự nhiên, vốn có\", khi các yếu tố ấy chưa từng bị phân hoá.",
+  "ban_doc": "Khái niệm: Nguyên hợp là tình trạng nhiều yếu tố khác nhau có sự hòa lẫn, trộn lẫn với nhau một cách tự nhiên, vốn có, khi các yếu tố ấy chưa từng bị phân hoá."
+ },
+ {
+  "ma": "M5.03",
+  "cho": "Mục 5 · Tính nguyên hợp · lí thuyết",
+  "nguon": "CV",
+  "doc": "thần thoại mang tính nguyên hợp, chứa đựng các yếu tố nghệ thuật, tôn giáo, triết học, lịch sử,...",
+  "ban_doc": "thần thoại mang tính nguyên hợp, chứa đựng các yếu tố nghệ thuật, tôn giáo, triết học, lịch sử,."
+ },
+ {
+  "ma": "M5.04",
+  "cho": "Mục 5 · Tính nguyên hợp · lí thuyết",
+  "nguon": "CV",
+  "doc": "Cơ sở hình thành: Ra đời trong \"tuổi ấu thơ\" của loài người, do cách nhận thức thế giới bằng biểu tượng nên thần thoại mang tính nguyên hợp.",
+  "ban_doc": "Cơ sở hình thành: Ra đời trong tuổi ấu thơ của loài người, do cách nhận thức thế giới bằng biểu tượng nên thần thoại mang tính nguyên hợp."
+ },
+ {
+  "ma": "M5.05",
+  "cho": "Mục 5 · Tính nguyên hợp · lí thuyết",
+  "nguon": "CV",
+  "doc": "Vai trò: thần thoại có vai trò đặc biệt quan trọng trong việc lưu giữ di sản văn hoá nguyên thuỷ của cộng đồng.",
+  "ban_doc": "Vai trò: thần thoại có vai trò đặc biệt quan trọng trong việc lưu giữ di sản văn hoá nguyên thuỷ của cộng đồng."
+ },
+ {
+  "ma": "M5.06",
+  "cho": "Mục 5 · Tính nguyên hợp · câu hỏi C5_Q1",
+  "nguon": "CV",
+  "doc": "Ra đời trong [ô 1] của loài người, do cách nhận thức thế giới bằng [ô 2] nên thần thoại mang tính nguyên hợp.",
+  "ban_doc": "Ra đời trong chỗ trống của loài người, do cách nhận thức thế giới bằng chỗ trống nên thần thoại mang tính nguyên hợp."
+ },
+ {
+  "ma": "M5.07",
+  "cho": "Mục 5 · Tính nguyên hợp · câu hỏi C5_Q2",
+  "nguon": "CV",
+  "doc": "Trong thẻ Ví dụ, chi tiết nào thể hiện yếu tố lịch sử?",
+  "ban_doc": "Trong thẻ Ví dụ, chi tiết nào thể hiện yếu tố lịch sử?"
+ },
+ {
+  "ma": "M5.08",
+  "cho": "Mục 5 · Tính nguyên hợp · phân tích sau C5_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Hoà lẫn tự nhiên, chưa bị phân hoá → Các yếu tố dưới đây cùng nằm trong một câu chuyện, không tách thành từng phần riêng.",
+  "ban_doc": "Hoà lẫn tự nhiên, chưa bị phân hoá, Các yếu tố dưới đây cùng nằm trong một câu chuyện, không tách thành từng phần riêng."
+ },
+ {
+  "ma": "M5.09",
+  "cho": "Mục 5 · Tính nguyên hợp · phân tích sau C5_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Yếu tố nghệ thuật → Câu chuyện tưởng tượng về vị thần đắp \"Cột chống trời\".",
+  "ban_doc": "Yếu tố nghệ thuật, Câu chuyện tưởng tượng về vị thần đắp Cột chống trời."
+ },
+ {
+  "ma": "M5.10",
+  "cho": "Mục 5 · Tính nguyên hợp · phân tích sau C5_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Yếu tố tôn giáo → Theo chú thích của SGK, thần Trụ Trời \"được tôn giáo hoá\", gắn với danh xưng \"Ngọc Hoàng Thượng đế\".",
+  "ban_doc": "Yếu tố tôn giáo, Theo chú thích của sách giáo khoa, thần Trụ Trời được tôn giáo hoá, gắn với danh xưng Ngọc Hoàng Thượng đế."
+ },
+ {
+  "ma": "M5.11",
+  "cho": "Mục 5 · Tính nguyên hợp · phân tích sau C5_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Yếu tố lịch sử → Câu chuyện gắn với một địa danh có thật, \"núi Thạch Môn\", được người hạ giới coi là \"di tích của cột đó\".",
+  "ban_doc": "Yếu tố lịch sử, Câu chuyện gắn với một địa danh có thật, núi Thạch Môn, được người hạ giới coi là di tích của cột đó."
+ },
+ {
+  "ma": "M5.12",
+  "cho": "Mục 5 · Tính nguyên hợp · kết luận",
+  "nguon": "CV",
+  "doc": "thần thoại mang tính nguyên hợp, chứa đựng các yếu tố nghệ thuật, tôn giáo, triết học, lịch sử,...",
+  "ban_doc": "thần thoại mang tính nguyên hợp, chứa đựng các yếu tố nghệ thuật, tôn giáo, triết học, lịch sử,."
+ },
+ {
+  "ma": "M6.01",
+  "cho": "Mục 6 · Cốt truyện và sự kiện · mở mục",
+  "nguon": "AI",
+  "doc": "Thần Trụ Trời đã làm những việc gì, theo thứ tự nào? Hãy cùng lần theo chuỗi sự kiện.",
+  "ban_doc": "Thần Trụ Trời đã làm những việc gì, theo thứ tự nào? Hãy cùng lần theo chuỗi sự kiện."
+ },
+ {
+  "ma": "M6.02",
+  "cho": "Mục 6 · Cốt truyện và sự kiện · lí thuyết",
+  "nguon": "CV",
+  "doc": "Cốt truyện trong tác phẩm tự sự (thần thoại, sử thi, cổ tích, truyện ngắn, tiểu thuyết,...) và kịch được tạo nên bởi sự kiện (hoặc chuỗi sự kiện). Sự kiện là sự việc, biến cố dẫn đến những thay đổi mang tính bước ngoặt trong thế giới nghệ thuật hoặc bộc lộ những ý nghĩa nhất định với nhân vật hay người đọc – điều chưa được họ nhận thấy cho đến khi nó xảy ra.",
+  "ban_doc": "Cốt truyện trong tác phẩm tự sự (thần thoại, sử thi, cổ tích, truyện ngắn, tiểu thuyết,) và kịch được tạo nên bởi sự kiện (hoặc chuỗi sự kiện). Sự kiện là sự việc, biến cố dẫn đến những thay đổi mang tính bước ngoặt trong thế giới nghệ thuật hoặc bộc lộ những ý nghĩa nhất định với nhân vật hay người đọc, điều chưa được họ nhận thấy cho đến khi nó xảy ra."
+ },
+ {
+  "ma": "M6.03",
+  "cho": "Mục 6 · Cốt truyện và sự kiện · lí thuyết",
+  "nguon": "CV",
+  "doc": "Cốt truyện: chuỗi sự kiện (biến cố) tạo bước ngoặt hoặc bộc lộ ý nghĩa với nhân vật, người đọc.",
+  "ban_doc": "Cốt truyện: chuỗi sự kiện (biến cố) tạo bước ngoặt hoặc bộc lộ ý nghĩa với nhân vật, người đọc."
+ },
+ {
+  "ma": "M6.04",
+  "cho": "Mục 6 · Cốt truyện và sự kiện · lí thuyết",
+  "nguon": "CV",
+  "doc": "cốt truyện đơn tuyến: loại cốt truyện đơn giản thường xoay quanh một nhân vật hoặc sự kiện chính nào đó.",
+  "ban_doc": "cốt truyện đơn tuyến: loại cốt truyện đơn giản thường xoay quanh một nhân vật hoặc sự kiện chính nào đó."
+ },
+ {
+  "ma": "M6.05",
+  "cho": "Mục 6 · Cốt truyện và sự kiện · lí thuyết",
+  "nguon": "CV",
+  "doc": "Đặc điểm: tính nguyên hợp; cốt truyện đơn giản; nhân vật là thần có năng lực siêu nhiên; thời gian phiếm chỉ, không gian vũ trụ nhiều cõi.",
+  "ban_doc": "Đặc điểm: tính nguyên hợp; cốt truyện đơn giản; nhân vật là thần có năng lực siêu nhiên; thời gian phiếm chỉ, không gian vũ trụ nhiều cõi."
+ },
+ {
+  "ma": "M6.06",
+  "cho": "Mục 6 · Cốt truyện và sự kiện · lí thuyết",
+  "nguon": "CV",
+  "doc": "Thần thoại thường có cốt truyện đơn giản: có thể là cốt truyện đơn tuyến, tập trung vào một nhân vật hoặc là một tổ hợp nhiều cốt truyện đơn (tạo thành một \"hệ thần thoại\").",
+  "ban_doc": "Thần thoại thường có cốt truyện đơn giản: có thể là cốt truyện đơn tuyến, tập trung vào một nhân vật hoặc là một tổ hợp nhiều cốt truyện đơn (tạo thành một hệ thần thoại)."
+ },
+ {
+  "ma": "M6.07",
+  "cho": "Mục 6 · Cốt truyện và sự kiện · lí thuyết",
+  "nguon": "CV",
+  "doc": "Sự kiện chính (đơn tuyến, gắn với công cuộc kiến thiết thế giới): / + Thần Trụ Trời: đội trời, đắp cột, tách trời – đất, phá cột tạo núi, sông, biển. / + Thần Sét: theo lệnh Ngọc Hoàng, trừng trị kẻ ác bằng búa đá, tạo sấm sét. / + Thần Gió: dùng quạt thần tạo ra gió, bão.",
+  "ban_doc": "Sự kiện chính (đơn tuyến, gắn với công cuộc kiến thiết thế giới): Thần Trụ Trời: đội trời, đắp cột, tách trời, đất, phá cột tạo núi, sông, biển. Thần Sét: theo lệnh Ngọc Hoàng, trừng trị kẻ ác bằng búa đá, tạo sấm sét. Thần Gió: dùng quạt thần tạo ra gió, bão."
+ },
+ {
+  "ma": "M6.08",
+  "cho": "Mục 6 · Cốt truyện và sự kiện · câu hỏi C6_Q1",
+  "nguon": "CV",
+  "doc": "Bạn hãy sắp xếp các hành động của thần Trụ Trời theo đúng trình tự.",
+  "ban_doc": "Bạn hãy sắp xếp các hành động của thần Trụ Trời theo đúng trình tự."
+ },
+ {
+  "ma": "M6.09",
+  "cho": "Mục 6 · Cốt truyện và sự kiện · câu hỏi C6_Q2",
+  "nguon": "CV",
+  "doc": "Mọi sự kiện trong Ví dụ 1 đều do một nhân vật thực hiện. Đây là dấu hiệu của loại cốt truyện nào?",
+  "ban_doc": "Mọi sự kiện trong Ví dụ một đều do một nhân vật thực hiện. Đây là dấu hiệu của loại cốt truyện nào?"
+ },
+ {
+  "ma": "M6.10",
+  "cho": "Mục 6 · Cốt truyện và sự kiện · phân tích sau C6_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Sự kiện là biến cố tạo thay đổi mang tính bước ngoặt → Trời đất từ \"hỗn độn\" thành \"phân ra làm hai\"; đá đất văng ra thành núi, đảo, cồn đồi.",
+  "ban_doc": "Sự kiện là biến cố tạo thay đổi mang tính bước ngoặt, Trời đất từ hỗn độn thành phân ra làm hai; đá đất văng ra thành núi, đảo, cồn đồi."
+ },
+ {
+  "ma": "M6.11",
+  "cho": "Mục 6 · Cốt truyện và sự kiện · phân tích sau C6_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Cốt truyện đơn tuyến, xoay quanh một nhân vật → Mọi sự kiện đều do một nhân vật thực hiện (\"thần\").",
+  "ban_doc": "Cốt truyện đơn tuyến, xoay quanh một nhân vật, Mọi sự kiện đều do một nhân vật thực hiện (thần)."
+ },
+ {
+  "ma": "M6.12",
+  "cho": "Mục 6 · Cốt truyện và sự kiện · kết luận",
+  "nguon": "CV",
+  "doc": "Thần thoại thường có cốt truyện đơn giản: có thể là cốt truyện đơn tuyến, tập trung vào một nhân vật hoặc là một tổ hợp nhiều cốt truyện đơn (tạo thành một \"hệ thần thoại\").",
+  "ban_doc": "Thần thoại thường có cốt truyện đơn giản: có thể là cốt truyện đơn tuyến, tập trung vào một nhân vật hoặc là một tổ hợp nhiều cốt truyện đơn (tạo thành một hệ thần thoại)."
+ },
+ {
+  "ma": "M7.01",
+  "cho": "Mục 7 · Truyện kể và câu chuyện · mở mục",
+  "nguon": "AI",
+  "doc": "Mục này tách bạch hai khái niệm rất dễ nhầm: truyện kể và câu chuyện.",
+  "ban_doc": "Mục này tách bạch hai khái niệm rất dễ nhầm: truyện kể và câu chuyện."
+ },
+ {
+  "ma": "M7.02",
+  "cho": "Mục 7 · Truyện kể và câu chuyện · lí thuyết",
+  "nguon": "CV",
+  "doc": "Sự kiện trong cốt truyện được triển khai hoặc liên kết với nhau theo một mạch kể nhất định. Mạch kể này thống nhất với hệ thống chi tiết và lời văn nghệ thuật (bao gồm các thành phần lời kể, lời tả, lời bình luận,...) tạo thành truyện kể.",
+  "ban_doc": "Sự kiện trong cốt truyện được triển khai hoặc liên kết với nhau theo một mạch kể nhất định. Mạch kể này thống nhất với hệ thống chi tiết và lời văn nghệ thuật (bao gồm các thành phần lời kể, lời tả, lời bình luận,) tạo thành truyện kể."
+ },
+ {
+  "ma": "M7.03",
+  "cho": "Mục 7 · Truyện kể và câu chuyện · lí thuyết",
+  "nguon": "CV",
+  "doc": "Truyện kể: các sự kiện liên kết theo mạch kể, thống nhất với hệ thống chi tiết và lời văn nghệ thuật (lời kể, lời tả, lời bình).",
+  "ban_doc": "Truyện kể: các sự kiện liên kết theo mạch kể, thống nhất với hệ thống chi tiết và lời văn nghệ thuật (lời kể, lời tả, lời bình)."
+ },
+ {
+  "ma": "M7.04",
+  "cho": "Mục 7 · Truyện kể và câu chuyện · lí thuyết",
+  "nguon": "CV",
+  "doc": "câu chuyện: khối thống nhất giữa bối cảnh, nhân vật, hành động, diễn biến sự việc được kể tới trong tác phẩm văn học, có chứa đựng một thông điệp nhất định.",
+  "ban_doc": "câu chuyện: khối thống nhất giữa bối cảnh, nhân vật, hành động, diễn biến sự việc được kể tới trong tác phẩm văn học, có chứa đựng một thông điệp nhất định."
+ },
+ {
+  "ma": "M7.05",
+  "cho": "Mục 7 · Truyện kể và câu chuyện · câu hỏi C7_Q1",
+  "nguon": "CV",
+  "doc": "Mỗi phần dưới đây là loại lời văn nào?",
+  "ban_doc": "Mỗi phần dưới đây là loại lời văn nào?"
+ },
+ {
+  "ma": "M7.06",
+  "cho": "Mục 7 · Truyện kể và câu chuyện · phân tích sau C7_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Mạch kể → Các sự kiện nối nhau theo quan hệ nhân – quả: đá văng ra \"thành một hòn núi\", \"vì thế mà bây giờ\" mặt đất không bằng phẳng.",
+  "ban_doc": "Mạch kể, Các sự kiện nối nhau theo quan hệ nhân, quả: đá văng ra thành một hòn núi, vì thế mà bây giờ mặt đất không bằng phẳng."
+ },
+ {
+  "ma": "M7.07",
+  "cho": "Mục 7 · Truyện kể và câu chuyện · phân tích sau C7_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Hệ thống chi tiết → \"hòn núi\", \"hòn đảo\", \"cồn đồi\", \"cao nguyên\".",
+  "ban_doc": "Hệ thống chi tiết, hòn núi, hòn đảo, cồn đồi, cao nguyên."
+ },
+ {
+  "ma": "M7.08",
+  "cho": "Mục 7 · Truyện kể và câu chuyện · phân tích sau C7_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Lời kể → \"Mỗi hòn đá văng ra bấy giờ thành một hòn núi hay một hòn đảo.\"",
+  "ban_doc": "Lời kể, Mỗi hòn đá văng ra bấy giờ thành một hòn núi hay một hòn đảo."
+ },
+ {
+  "ma": "M7.09",
+  "cho": "Mục 7 · Truyện kể và câu chuyện · phân tích sau C7_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Lời tả → \"mặt đất chỗ cao, chỗ thấp không được bằng phẳng\".",
+  "ban_doc": "Lời tả, mặt đất chỗ cao, chỗ thấp không được bằng phẳng."
+ },
+ {
+  "ma": "M7.10",
+  "cho": "Mục 7 · Truyện kể và câu chuyện · phân tích sau C7_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Lời bình luận → \"Vì thế mà bây giờ…\", nối sự việc thời khai thiên lập địa với hiện tại.",
+  "ban_doc": "Lời bình luận, Vì thế mà bây giờ. nối sự việc thời khai thiên lập địa với hiện tại."
+ },
+ {
+  "ma": "M7.11",
+  "cho": "Mục 7 · Truyện kể và câu chuyện · câu hỏi C7_Q2",
+  "nguon": "CV",
+  "doc": "Mỗi nội dung dưới đây là thành phần nào của câu chuyện?",
+  "ban_doc": "Mỗi nội dung dưới đây là thành phần nào của câu chuyện?"
+ },
+ {
+  "ma": "M7.12",
+  "cho": "Mục 7 · Truyện kể và câu chuyện · kết luận",
+  "nguon": "CV",
+  "doc": "Truyện kể: các sự kiện liên kết theo mạch kể, thống nhất với hệ thống chi tiết và lời văn nghệ thuật (lời kể, lời tả, lời bình).",
+  "ban_doc": "Truyện kể: các sự kiện liên kết theo mạch kể, thống nhất với hệ thống chi tiết và lời văn nghệ thuật (lời kể, lời tả, lời bình)."
+ },
+ {
+  "ma": "C3.MO",
+  "cho": "Mở Chặng 3 · Nhân vật và cái kì ảo",
+  "nguon": "AI",
+  "doc": "Chặng ba mở ra một phòng tranh của các vị thần. Bạn sẽ nhìn kĩ họ: hình dạng, năng lực, và những chi tiết kì ảo làm nên họ.",
+  "ban_doc": "Chặng ba mở ra một phòng tranh của các vị thần. Bạn sẽ nhìn kĩ họ: hình dạng, năng lực, và những chi tiết kì ảo làm nên họ."
+ },
+ {
+  "ma": "M8.01",
+  "cho": "Mục 8 · Nhân vật · mở mục",
+  "nguon": "AI",
+  "doc": "Các vị thần to lớn, kì vĩ, nhưng cũng rất gần gũi. Hãy nhìn lại những nhân vật trong thần thoại.",
+  "ban_doc": "Các vị thần to lớn, kì vĩ, nhưng cũng rất gần gũi. Hãy nhìn lại những nhân vật trong thần thoại."
+ },
+ {
+  "ma": "M8.02",
+  "cho": "Mục 8 · Nhân vật · lí thuyết",
+  "nguon": "CV",
+  "doc": "Nhân vật là con người cụ thể được khắc hoạ trong tác phẩm văn học bằng các biện pháp nghệ thuật. Cũng có những trường hợp nhân vật trong tác phẩm văn học là thần linh, loài vật, đồ vật,... nhưng khi ấy, chúng vẫn đại diện cho những tính cách, tâm lí, ý chí hay khát vọng của con người. Nhân vật là phương tiện để văn học khám phá và cắt nghĩa về con người.",
+  "ban_doc": "Nhân vật là con người cụ thể được khắc hoạ trong tác phẩm văn học bằng các biện pháp nghệ thuật. Cũng có những trường hợp nhân vật trong tác phẩm văn học là thần linh, loài vật, đồ vật, nhưng khi ấy, chúng vẫn đại diện cho những tính cách, tâm lí, ý chí hay khát vọng của con người. Nhân vật là phương tiện để văn học khám phá và cắt nghĩa về con người."
+ },
+ {
+  "ma": "M8.03",
+  "cho": "Mục 8 · Nhân vật · lí thuyết",
+  "nguon": "CV",
+  "doc": "nhân vật văn học: hình tượng con người được xây dựng, miêu tả trong tác phẩm văn học theo nguyên tắc hư cấu, thường có những đặc điểm riêng về diện mạo, ngôn ngữ, hành động, tính cách; là phương tiện quan trọng bậc nhất giúp nhà văn thể hiện quan niệm và những khám phá nghệ thuật của mình về con người, cuộc sống.",
+  "ban_doc": "nhân vật văn học: hình tượng con người được xây dựng, miêu tả trong tác phẩm văn học theo nguyên tắc hư cấu, thường có những đặc điểm riêng về diện mạo, ngôn ngữ, hành động, tính cách; là phương tiện quan trọng bậc nhất giúp nhà văn thể hiện quan niệm và những khám phá nghệ thuật của mình về con người, cuộc sống."
+ },
+ {
+  "ma": "M8.04",
+  "cho": "Mục 8 · Nhân vật · lí thuyết",
+  "nguon": "CV",
+  "doc": "tính cách nhân vật: những nét riêng, cốt lõi có tính chất ổn định thể hiện qua suy nghĩ, hành động, ngôn ngữ của nhân vật trong tác phẩm tự sự hoặc kịch.",
+  "ban_doc": "tính cách nhân vật: những nét riêng, cốt lõi có tính chất ổn định thể hiện qua suy nghĩ, hành động, ngôn ngữ của nhân vật trong tác phẩm tự sự hoặc kịch."
+ },
+ {
+  "ma": "M8.05",
+  "cho": "Mục 8 · Nhân vật · lí thuyết",
+  "nguon": "CV",
+  "doc": "b1. Hình dạng, năng lực: Nhân vật chính của thần thoại là các vị thần hoặc những con người có nguồn gốc thần linh, có năng lực siêu nhiên, do vậy, thường được miêu tả với hình dạng khổng lồ, có kích thước ngang tầm vũ trụ.",
+  "ban_doc": "b1. Hình dạng, năng lực: Nhân vật chính của thần thoại là các vị thần hoặc những con người có nguồn gốc thần linh, có năng lực siêu nhiên, do vậy, thường được miêu tả với hình dạng khổng lồ, có kích thước ngang tầm vũ trụ."
+ },
+ {
+  "ma": "M8.06",
+  "cho": "Mục 8 · Nhân vật · lí thuyết",
+  "nguon": "CV",
+  "doc": "b2. Chức năng của nhân vật: Chức năng của nhân vật trong thần thoại là cắt nghĩa, lí giải các hiện tượng tự nhiên và đời sống xã hội, thể hiện niềm tin của con người cổ sơ cũng như những khát vọng tinh thần có ý nghĩa lâu dài của nhân loại.",
+  "ban_doc": "b2. Chức năng của nhân vật: Chức năng của nhân vật trong thần thoại là cắt nghĩa, lí giải các hiện tượng tự nhiên và đời sống xã hội, thể hiện niềm tin của con người cổ sơ cũng như những khát vọng tinh thần có ý nghĩa lâu dài của nhân loại."
+ },
+ {
+  "ma": "M8.07",
+  "cho": "Mục 8 · Nhân vật · lí thuyết",
+  "nguon": "CV",
+  "doc": "b3. Nhân vật chức năng: \"Nhân vật chức năng: tầm vóc lớn lao, tính cách đơn giản; mỗi thần gắn một công việc kiến tạo thế giới.\" / Nhân vật trong thần thoại, truyền thuyết, truyện cổ tích và truyện chí quái thường thuộc về một tuyến nhất định (xấu – tốt, cao cả – thấp hèn,...) và có tính chức năng (do vậy mà hành động khá đơn điệu).",
+  "ban_doc": "b3. Nhân vật chức năng: Nhân vật chức năng: tầm vóc lớn lao, tính cách đơn giản; mỗi thần gắn một công việc kiến tạo thế giới. Nhân vật trong thần thoại, truyền thuyết, truyện cổ tích và truyện chí quái thường thuộc về một tuyến nhất định (xấu, tốt, cao cả, thấp hèn,) và có tính chức năng (do vậy mà hành động khá đơn điệu)."
+ },
+ {
+  "ma": "M8.08",
+  "cho": "Mục 8 · Nhân vật · lí thuyết",
+  "nguon": "CV",
+  "doc": "b4. Chân dung vừa kì vĩ vừa gần gũi: \"Chân dung các vị thần vừa kì vĩ vừa gần gũi và cội nguồn của trí tưởng tượng dân gian.\"",
+  "ban_doc": "b4. Chân dung vừa kì vĩ vừa gần gũi: Chân dung các vị thần vừa kì vĩ vừa gần gũi và cội nguồn của trí tưởng tượng dân gian."
+ },
+ {
+  "ma": "M8.09",
+  "cho": "Mục 8 · Nhân vật · câu hỏi C8_Q1",
+  "nguon": "CV",
+  "doc": "Mỗi ví dụ tiêu biểu cho đặc điểm nào của nhân vật thần thoại?",
+  "ban_doc": "Mỗi ví dụ tiêu biểu cho đặc điểm nào của nhân vật thần thoại?"
+ },
+ {
+  "ma": "M8.10",
+  "cho": "Mục 8 · Nhân vật · câu hỏi C8_Q2",
+  "nguon": "CV",
+  "doc": "Theo Ví dụ 2, hành động của thần Sét chỉ 'phản ánh sự thịnh nộ của Ngọc Hoàng'. Điều này cho thấy đặc điểm nào của nhân vật chức năng?",
+  "ban_doc": "Theo Ví dụ hai, hành động của thần Sét chỉ 'phản ánh sự thịnh nộ của Ngọc Hoàng'. Điều này cho thấy đặc điểm nào của nhân vật chức năng?"
+ },
+ {
+  "ma": "M8.11",
+  "cho": "Mục 8 · Nhân vật · phân tích sau C8_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "b1: \"Thần Trụ Trời: thân hình khổng lồ, tầm vóc vũ trụ; cần mẫn đội trời, đắp cột như người lao động.\" Là vị thần → \"một ông thần\". Có năng lực siêu nhiên → \"chân thần bước một bước cứ như bây giờ là từ tỉnh này qua tỉnh nọ\". Hình dạng khổng lồ, kích thước ngang tầm vũ trụ → \"thân thể to lớn không biết bao nhiêu mà kể\"; mỗi bước chân đi \"từ đỉnh núi này sang đỉnh núi kia\".",
+  "ban_doc": "b1: Thần Trụ Trời: thân hình khổng lồ, tầm vóc vũ trụ; cần mẫn đội trời, đắp cột như người lao động. Là vị thần, một ông thần. Có năng lực siêu nhiên, chân thần bước một bước cứ như bây giờ là từ tỉnh này qua tỉnh nọ. Hình dạng khổng lồ, kích thước ngang tầm vũ trụ, thân thể to lớn không biết bao nhiêu mà kể; mỗi bước chân đi từ đỉnh núi này sang đỉnh núi kia."
+ },
+ {
+  "ma": "M8.12",
+  "cho": "Mục 8 · Nhân vật · phân tích sau C8_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "b2: \"Thần Sét: mặt mũi nanh ác, tính nóng nảy; thực thi luật pháp nhưng cũng bị phạt, biết sợ tiếng gà.\" Cắt nghĩa hiện tượng tự nhiên → \"chớp rạch\" được hiểu là dấu hiệu \"thần Sét sắp xuống\". Cắt nghĩa đời sống xã hội → Thói quen \"bắt chước tiếng gọi gà\" của người hạ giới được giải thích là do thần có tật \"nghe tiếng gà là giật mình\". Thể hiện niềm tin của con người cổ sơ → Người ta tin thần Sét có thật và có thể bị \"doạ\". Thể hiện khát vọng tinh thần → Mong muốn chế ngự lực lượng tự nhiên đáng sợ, thể hiện qua hành động \"để doạ thần\".",
+  "ban_doc": "b2: Thần Sét: mặt mũi nanh ác, tính nóng nảy; thực thi luật pháp nhưng cũng bị phạt, biết sợ tiếng gà. Cắt nghĩa hiện tượng tự nhiên, chớp rạch được hiểu là dấu hiệu thần Sét sắp xuống. Cắt nghĩa đời sống xã hội, Thói quen bắt chước tiếng gọi gà của người hạ giới được giải thích là do thần có tật nghe tiếng gà là giật mình. Thể hiện niềm tin của con người cổ sơ, Người ta tin thần Sét có thật và có thể bị doạ. Thể hiện khát vọng tinh thần, Mong muốn chế ngự lực lượng tự nhiên đáng sợ, thể hiện qua hành động để doạ thần."
+ },
+ {
+  "ma": "M8.13",
+  "cho": "Mục 8 · Nhân vật · phân tích sau C8_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "b3: Mỗi thần gắn một công việc → \"Thần chuyên một việc thi hành luật pháp ở trần gian.\" Tầm vóc lớn lao → Thần cai quản luật pháp của cả \"trần gian\". Tính cách đơn giản → Hành động của thần chỉ \"phản ánh sự thịnh nộ của Ngọc Hoàng\", không có đời sống nội tâm riêng. Hành động khá đơn điệu → Các lần xử án lặp lại một kiểu: \"trỏ ngọn cờ vào đầu tội nhân rồi dùng lưỡi búa bổ xuống\".",
+  "ban_doc": "b3: Mỗi thần gắn một công việc, Thần chuyên một việc thi hành luật pháp ở trần gian. Tầm vóc lớn lao, Thần cai quản luật pháp của cả trần gian. Tính cách đơn giản, Hành động của thần chỉ phản ánh sự thịnh nộ của Ngọc Hoàng, không có đời sống nội tâm riêng. Hành động khá đơn điệu, Các lần xử án lặp lại một kiểu: trỏ ngọn cờ vào đầu tội nhân rồi dùng lưỡi búa bổ xuống."
+ },
+ {
+  "ma": "M8.14",
+  "cho": "Mục 8 · Nhân vật · phân tích sau C8_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "b4: \"Thần Trụ Trời: cần mẫn đội trời, đắp cột như người lao động.\" Kì vĩ → Thần làm \"cột đá càng cao chót vót càng đẩy trời lên mãi\". Gần gũi → Thần làm việc \"một mình cầy cục\", được chú thích là \"cố sức thực hiện công việc một cách vất vả\", giống người lao động.",
+  "ban_doc": "b4: Thần Trụ Trời: cần mẫn đội trời, đắp cột như người lao động. Kì vĩ, Thần làm cột đá càng cao chót vót càng đẩy trời lên mãi. Gần gũi, Thần làm việc một mình cầy cục, được chú thích là cố sức thực hiện công việc một cách vất vả, giống người lao động."
+ },
+ {
+  "ma": "M8.15",
+  "cho": "Mục 8 · Nhân vật · kết luận",
+  "nguon": "CV",
+  "doc": "b1: \"Thần Trụ Trời: thân hình khổng lồ, tầm vóc vũ trụ; cần mẫn đội trời, đắp cột như người lao động.\"",
+  "ban_doc": "b1: Thần Trụ Trời: thân hình khổng lồ, tầm vóc vũ trụ; cần mẫn đội trời, đắp cột như người lao động."
+ },
+ {
+  "ma": "M8.16",
+  "cho": "Mục 8 · Nhân vật · kết luận",
+  "nguon": "CV",
+  "doc": "b2: \"Thần Sét: mặt mũi nanh ác, tính nóng nảy; thực thi luật pháp nhưng cũng bị phạt, biết sợ tiếng gà.\"",
+  "ban_doc": "b2: Thần Sét: mặt mũi nanh ác, tính nóng nảy; thực thi luật pháp nhưng cũng bị phạt, biết sợ tiếng gà."
+ },
+ {
+  "ma": "M8.17",
+  "cho": "Mục 8 · Nhân vật · kết luận",
+  "nguon": "CV",
+  "doc": "b3: \"Nhân vật chức năng: tầm vóc lớn lao, tính cách đơn giản; mỗi thần gắn một công việc kiến tạo thế giới.\"",
+  "ban_doc": "b3: Nhân vật chức năng: tầm vóc lớn lao, tính cách đơn giản; mỗi thần gắn một công việc kiến tạo thế giới."
+ },
+ {
+  "ma": "M8.18",
+  "cho": "Mục 8 · Nhân vật · kết luận",
+  "nguon": "CV",
+  "doc": "b4: \"Chân dung các vị thần vừa kì vĩ vừa gần gũi và cội nguồn của trí tưởng tượng dân gian.\"",
+  "ban_doc": "b4: Chân dung các vị thần vừa kì vĩ vừa gần gũi và cội nguồn của trí tưởng tượng dân gian."
+ },
+ {
+  "ma": "M9.01",
+  "cho": "Mục 9 · Thủ pháp xây dựng nhân vật · mở mục",
+  "nguon": "AI",
+  "doc": "Các vị thần đào đất thành biển cả. Người xưa đã dùng thủ pháp nào để dựng nên nhân vật?",
+  "ban_doc": "Các vị thần đào đất thành biển cả. Người xưa đã dùng thủ pháp nào để dựng nên nhân vật?"
+ },
+ {
+  "ma": "M9.02",
+  "cho": "Mục 9 · Thủ pháp xây dựng nhân vật · lí thuyết",
+  "nguon": "CV",
+  "doc": "Thủ pháp: cường điệu, phóng đại, ẩn dụ; kết hợp chi tiết tả thực với tưởng tượng, hư cấu.",
+  "ban_doc": "Thủ pháp: cường điệu, phóng đại, ẩn dụ; kết hợp chi tiết tả thực với tưởng tượng, hư cấu."
+ },
+ {
+  "ma": "M9.03",
+  "cho": "Mục 9 · Thủ pháp xây dựng nhân vật · câu hỏi C9_Q1",
+  "nguon": "CV",
+  "doc": "Trong Ví dụ 2, chi tiết nào là chi tiết tưởng tượng, hư cấu?",
+  "ban_doc": "Trong Ví dụ hai, chi tiết nào là chi tiết tưởng tượng, hư cấu?"
+ },
+ {
+  "ma": "M9.04",
+  "cho": "Mục 9 · Thủ pháp xây dựng nhân vật · phân tích sau C9_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Chi tiết tả thực → \"mất mùa đói khổ\", \"vợ đau nặng\", \"đi rất xa hơn một ngày đường mới xin được một bát gạo\".",
+  "ban_doc": "Chi tiết tả thực, mất mùa đói khổ, vợ đau nặng, đi rất xa hơn một ngày đường mới xin được một bát gạo."
+ },
+ {
+  "ma": "M9.05",
+  "cho": "Mục 9 · Thủ pháp xây dựng nhân vật · phân tích sau C9_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Chi tiết tưởng tượng, hư cấu → \"trận gió do con thần Gió quạt lên\".",
+  "ban_doc": "Chi tiết tưởng tượng, hư cấu, trận gió do con thần Gió quạt lên."
+ },
+ {
+  "ma": "M9.06",
+  "cho": "Mục 9 · Thủ pháp xây dựng nhân vật · phân tích sau C9_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Sự kết hợp → Chi tiết hư cấu (gió do con thần Gió quạt) tác động trực tiếp vào chi tiết tả thực (bát gạo \"văng xuống ao\"), tạo thành một sự kiện liền mạch.",
+  "ban_doc": "Sự kết hợp, Chi tiết hư cấu (gió do con thần Gió quạt) tác động trực tiếp vào chi tiết tả thực (bát gạo văng xuống ao), tạo thành một sự kiện liền mạch."
+ },
+ {
+  "ma": "M9.07",
+  "cho": "Mục 9 · Thủ pháp xây dựng nhân vật · câu hỏi C9_Q2",
+  "nguon": "CV",
+  "doc": "Ví dụ 1 thể hiện thủ pháp nào?",
+  "ban_doc": "Ví dụ một thể hiện thủ pháp nào?"
+ },
+ {
+  "ma": "M9.08",
+  "cho": "Mục 9 · Thủ pháp xây dựng nhân vật · kết luận",
+  "nguon": "CV",
+  "doc": "Thủ pháp: cường điệu, phóng đại, ẩn dụ; kết hợp chi tiết tả thực với tưởng tượng, hư cấu.",
+  "ban_doc": "Thủ pháp: cường điệu, phóng đại, ẩn dụ; kết hợp chi tiết tả thực với tưởng tượng, hư cấu."
+ },
+ {
+  "ma": "M10.01",
+  "cho": "Mục 10 · Yếu tố kì ảo, chi tiết kì ảo · mở mục",
+  "nguon": "AI",
+  "doc": "Còn thần Gió lại hoá thành cây ngải. Chi tiết kì ảo ấy có tác dụng gì?",
+  "ban_doc": "Còn thần Gió lại hoá thành cây ngải. Chi tiết kì ảo ấy có tác dụng gì?"
+ },
+ {
+  "ma": "M10.02",
+  "cho": "Mục 10 · Yếu tố kì ảo, chi tiết kì ảo · lí thuyết",
+  "nguon": "CV",
+  "doc": "Trong thần thoại, truyền thuyết, yếu tố kì ảo gắn với việc nhân hoá, thần linh hoá các lực lượng tự nhiên và nhân vật lịch sử.",
+  "ban_doc": "Trong thần thoại, truyền thuyết, yếu tố kì ảo gắn với việc nhân hoá, thần linh hoá các lực lượng tự nhiên và nhân vật lịch sử."
+ },
+ {
+  "ma": "M10.03",
+  "cho": "Mục 10 · Yếu tố kì ảo, chi tiết kì ảo · lí thuyết",
+  "nguon": "CV",
+  "doc": "Phân tích tác dụng: lí giải hiện tượng tự nhiên; thể hiện trí tưởng tượng và tính hiện thực. / - Khẳng định giá trị của chi tiết trong việc khắc hoạ nhân vật/thể hiện chủ đề.",
+  "ban_doc": "Phân tích tác dụng: lí giải hiện tượng tự nhiên; thể hiện trí tưởng tượng và tính hiện thực. - Khẳng định giá trị của chi tiết trong việc khắc hoạ nhân vật/thể hiện chủ đề."
+ },
+ {
+  "ma": "M10.04",
+  "cho": "Mục 10 · Yếu tố kì ảo, chi tiết kì ảo · câu hỏi C10_Q1",
+  "nguon": "CV",
+  "doc": "Việc 'cây ngải gió cuốn bông cuốn lá lại' báo 'trời sắp nổi gió, nổi mưa' thể hiện tác dụng nào của chi tiết kì ảo?",
+  "ban_doc": "Việc 'cây ngải gió cuốn bông cuốn lá lại' báo 'trời sắp nổi gió, nổi mưa' thể hiện tác dụng nào của chi tiết kì ảo?"
+ },
+ {
+  "ma": "M10.05",
+  "cho": "Mục 10 · Yếu tố kì ảo, chi tiết kì ảo · câu hỏi C10_Q2",
+  "nguon": "CV",
+  "doc": "Phân tích tác dụng: lí giải hiện tượng tự nhiên; thể hiện [ô 1] và [ô 2].",
+  "ban_doc": "Phân tích tác dụng: lí giải hiện tượng tự nhiên; thể hiện chỗ trống và chỗ trống."
+ },
+ {
+  "ma": "M10.06",
+  "cho": "Mục 10 · Yếu tố kì ảo, chi tiết kì ảo · phân tích sau C10_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Thần linh hoá lực lượng tự nhiên → Gió gắn với \"con thần Gió\", một nhân vật thần linh.",
+  "ban_doc": "Thần linh hoá lực lượng tự nhiên, Gió gắn với con thần Gió, một nhân vật thần linh."
+ },
+ {
+  "ma": "M10.07",
+  "cho": "Mục 10 · Yếu tố kì ảo, chi tiết kì ảo · phân tích sau C10_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Tác dụng lí giải hiện tượng tự nhiên → Việc \"cây ngải gió cuốn bông cuốn lá lại\" được giải thích là để báo \"trời sắp nổi gió, nổi mưa\".",
+  "ban_doc": "Tác dụng lí giải hiện tượng tự nhiên, Việc cây ngải gió cuốn bông cuốn lá lại được giải thích là để báo trời sắp nổi gió, nổi mưa."
+ },
+ {
+  "ma": "M10.08",
+  "cho": "Mục 10 · Yếu tố kì ảo, chi tiết kì ảo · phân tích sau C10_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Tác dụng thể hiện trí tưởng tượng → Con thần Gió \"hoá làm cây ngải\".",
+  "ban_doc": "Tác dụng thể hiện trí tưởng tượng, Con thần Gió hoá làm cây ngải."
+ },
+ {
+  "ma": "M10.09",
+  "cho": "Mục 10 · Yếu tố kì ảo, chi tiết kì ảo · phân tích sau C10_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Tác dụng thể hiện tính hiện thực → Tên gọi có thật trong dân gian (\"cây ngải gió\", \"cây ngải tướng quân\") và kinh nghiệm quan sát thời tiết của \"người hạ giới\".",
+  "ban_doc": "Tác dụng thể hiện tính hiện thực, Tên gọi có thật trong dân gian (cây ngải gió, cây ngải tướng quân) và kinh nghiệm quan sát thời tiết của người hạ giới."
+ },
+ {
+  "ma": "M10.10",
+  "cho": "Mục 10 · Yếu tố kì ảo, chi tiết kì ảo · phân tích sau C10_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Tác dụng khắc hoạ nhân vật, thể hiện chủ đề → Chi tiết khép lại hình phạt dành cho đứa con nghịch ngợm, đồng thời thể hiện chủ đề lí giải tự nhiên của truyện.",
+  "ban_doc": "Tác dụng khắc hoạ nhân vật, thể hiện chủ đề, Chi tiết khép lại hình phạt dành cho đứa con nghịch ngợm, đồng thời thể hiện chủ đề lí giải tự nhiên của truyện."
+ },
+ {
+  "ma": "M10.11",
+  "cho": "Mục 10 · Yếu tố kì ảo, chi tiết kì ảo · kết luận",
+  "nguon": "CV",
+  "doc": "Phân tích tác dụng: lí giải hiện tượng tự nhiên; thể hiện trí tưởng tượng và tính hiện thực. / - Khẳng định giá trị của chi tiết trong việc khắc hoạ nhân vật/thể hiện chủ đề.",
+  "ban_doc": "Phân tích tác dụng: lí giải hiện tượng tự nhiên; thể hiện trí tưởng tượng và tính hiện thực. - Khẳng định giá trị của chi tiết trong việc khắc hoạ nhân vật/thể hiện chủ đề."
+ },
+ {
+  "ma": "C4.MO",
+  "cho": "Mở Chặng 4 · Không gian, thời gian, lời kể",
+  "nguon": "AI",
+  "doc": "Chặng bốn, bạn hãy ngồi xuống bên bếp lửa của người xưa để nghe kể chuyện. Câu chuyện xảy ra ở đâu, vào lúc nào, và ai đang kể?",
+  "ban_doc": "Chặng bốn, bạn hãy ngồi xuống bên bếp lửa của người xưa để nghe kể chuyện. Câu chuyện xảy ra ở đâu, vào lúc nào, và ai đang kể?"
+ },
+ {
+  "ma": "M11.01",
+  "cho": "Mục 11 · Không gian · mở mục",
+  "nguon": "AI",
+  "doc": "Câu chuyện thần thoại diễn ra ở đâu? Hãy nhìn không gian của vũ trụ thuở ban đầu.",
+  "ban_doc": "Câu chuyện thần thoại diễn ra ở đâu? Hãy nhìn không gian của vũ trụ thuở ban đầu."
+ },
+ {
+  "ma": "M11.02",
+  "cho": "Mục 11 · Không gian · lí thuyết",
+  "nguon": "CV",
+  "doc": "Câu chuyện trong thần thoại gắn liền với thời gian phiếm chỉ, mang tính ước lệ và không gian vũ trụ với nhiều cõi khác nhau.",
+  "ban_doc": "Câu chuyện trong thần thoại gắn liền với thời gian phiếm chỉ, mang tính ước lệ và không gian vũ trụ với nhiều cõi khác nhau."
+ },
+ {
+  "ma": "M11.03",
+  "cho": "Mục 11 · Không gian · lí thuyết",
+  "nguon": "CV",
+  "doc": "Không gian: vũ trụ thuở hỗn mang, \"một đám hỗn độn tối tăm\", các cõi khác nhau.",
+  "ban_doc": "Không gian: vũ trụ thuở hỗn mang, một đám hỗn độn tối tăm, các cõi khác nhau."
+ },
+ {
+  "ma": "M11.04",
+  "cho": "Mục 11 · Không gian · câu hỏi C11_Q1",
+  "nguon": "CV",
+  "doc": "Theo chú thích của SGK, 'một đám hỗn độn tối tăm và lạnh lẽo' chỉ trạng thái tồn tại của gì?",
+  "ban_doc": "Theo chú thích của sách giáo khoa, 'một đám hỗn độn tối tăm và lạnh lẽo' chỉ trạng thái tồn tại của gì?"
+ },
+ {
+  "ma": "M11.05",
+  "cho": "Mục 11 · Không gian · câu hỏi C11_Q2",
+  "nguon": "CV",
+  "doc": "Nhiều cõi khác nhau: [ô 1] (văn bản Thần Sét) và [ô 2] (văn bản Thần Trụ Trời, văn bản Thần Gió).",
+  "ban_doc": "Nhiều cõi khác nhau: chỗ trống (văn bản Thần Sét) và chỗ trống (văn bản Thần Trụ Trời, văn bản Thần Gió)."
+ },
+ {
+  "ma": "M11.06",
+  "cho": "Mục 11 · Không gian · phân tích sau C11_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Không gian vũ trụ → \"Trời đất chỉ là một đám hỗn độn tối tăm và lạnh lẽo.\" Chú thích của SGK cho biết đây là \"vũ trụ thuở sơ khai\".",
+  "ban_doc": "Không gian vũ trụ, Trời đất chỉ là một đám hỗn độn tối tăm và lạnh lẽo. Chú thích của sách giáo khoa cho biết đây là vũ trụ thuở sơ khai."
+ },
+ {
+  "ma": "M11.07",
+  "cho": "Mục 11 · Không gian · phân tích sau C11_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Nhiều cõi khác nhau → Cõi \"thiên đình\" (văn bản Thần Sét) và cõi \"hạ giới\" (văn bản Thần Trụ Trời; văn bản Thần Gió).",
+  "ban_doc": "Nhiều cõi khác nhau, Cõi thiên đình (văn bản Thần Sét) và cõi hạ giới (văn bản Thần Trụ Trời; văn bản Thần Gió)."
+ },
+ {
+  "ma": "M11.08",
+  "cho": "Mục 11 · Không gian · kết luận",
+  "nguon": "CV",
+  "doc": "Không gian: vũ trụ thuở hỗn mang, \"một đám hỗn độn tối tăm\", các cõi khác nhau.",
+  "ban_doc": "Không gian: vũ trụ thuở hỗn mang, một đám hỗn độn tối tăm, các cõi khác nhau."
+ },
+ {
+  "ma": "M12.01",
+  "cho": "Mục 12 · Thời gian · mở mục",
+  "nguon": "AI",
+  "doc": "Thuở ấy là thuở nào? Mục này nói về thời gian trong thần thoại.",
+  "ban_doc": "Thuở ấy là thuở nào? Mục này nói về thời gian trong thần thoại."
+ },
+ {
+  "ma": "M12.02",
+  "cho": "Mục 12 · Thời gian · lí thuyết",
+  "nguon": "CV",
+  "doc": "Câu chuyện trong thần thoại gắn liền với thời gian phiếm chỉ, mang tính ước lệ và không gian vũ trụ với nhiều cõi khác nhau.",
+  "ban_doc": "Câu chuyện trong thần thoại gắn liền với thời gian phiếm chỉ, mang tính ước lệ và không gian vũ trụ với nhiều cõi khác nhau."
+ },
+ {
+  "ma": "M12.03",
+  "cho": "Mục 12 · Thời gian · lí thuyết",
+  "nguon": "CV",
+  "doc": "phiếm chỉ: chỉ chung, không xác định đối tượng cụ thể nào (người, vật, thời gian,...).",
+  "ban_doc": "phiếm chỉ: chỉ chung, không xác định đối tượng cụ thể nào (người, vật, thời gian,)."
+ },
+ {
+  "ma": "M12.04",
+  "cho": "Mục 12 · Thời gian · lí thuyết",
+  "nguon": "CV",
+  "doc": "tính ước lệ: một tính chất hay đặc điểm của sáng tác nghệ thuật nói chung, thể hiện rõ nét đặc thù của ngôn ngữ hay hình tượng trong tác phẩm, so với ngôn ngữ hay đối tượng tồn tại trong đời sống thực tế.",
+  "ban_doc": "tính ước lệ: một tính chất hay đặc điểm của sáng tác nghệ thuật nói chung, thể hiện rõ nét đặc thù của ngôn ngữ hay hình tượng trong tác phẩm, so với ngôn ngữ hay đối tượng tồn tại trong đời sống thực tế."
+ },
+ {
+  "ma": "M12.05",
+  "cho": "Mục 12 · Thời gian · câu hỏi C12_Q1",
+  "nguon": "CV",
+  "doc": "Từ 'Thuở ấy' không chỉ một mốc thời gian cụ thể. Đây là biểu hiện của tính chất nào?",
+  "ban_doc": "Từ 'Thuở ấy' không chỉ một mốc thời gian cụ thể. Đây là biểu hiện của tính chất nào?"
+ },
+ {
+  "ma": "M12.06",
+  "cho": "Mục 12 · Thời gian · câu hỏi C12_Q2",
+  "nguon": "CV",
+  "doc": "tính ước lệ: một tính chất hay đặc điểm của sáng tác nghệ thuật nói chung, thể hiện rõ nét đặc thù của ngôn ngữ hay hình tượng trong tác phẩm, so với ngôn ngữ hay đối tượng tồn tại trong [ô].",
+  "ban_doc": "tính ước lệ: một tính chất hay đặc điểm của sáng tác nghệ thuật nói chung, thể hiện rõ nét đặc thù của ngôn ngữ hay hình tượng trong tác phẩm, so với ngôn ngữ hay đối tượng tồn tại trong [ô]."
+ },
+ {
+  "ma": "M12.07",
+  "cho": "Mục 12 · Thời gian · kết luận",
+  "nguon": "CV",
+  "doc": "Thời gian: phiếm chỉ, ước lệ (\"Thuở ấy chưa có vũ trụ…\").",
+  "ban_doc": "Thời gian: phiếm chỉ, ước lệ (Thuở ấy chưa có vũ trụ.)."
+ },
+ {
+  "ma": "M13.01",
+  "cho": "Mục 13 · Người kể chuyện và lời người kể chuyện · mở mục",
+  "nguon": "AI",
+  "doc": "Truyện kể chỉ tồn tại khi có người kể. Hãy cùng nghe giọng của người kể chuyện.",
+  "ban_doc": "Truyện kể chỉ tồn tại khi có người kể. Hãy cùng nghe giọng của người kể chuyện."
+ },
+ {
+  "ma": "M13.02",
+  "cho": "Mục 13 · Người kể chuyện và lời người kể chuyện · lí thuyết",
+  "nguon": "CV",
+  "doc": "Truyện kể chỉ tồn tại khi có người kể chuyện. Trong nhiều loại hình tự sự dân gian, người kể chuyện có thể là người trực tiếp diễn xướng để kể lại câu chuyện cho công chúng. Trong các hình thức tự sự của văn học viết, người kể chuyện là \"vai\" hay \"đại diện\" mà nhà văn tạo ra để thay mình thực hiện việc kể chuyện. / Nhờ người kể chuyện, người đọc được dẫn dắt vào thế giới nghệ thuật của truyện kể để tri nhận về nhân vật, sự kiện, không gian, thời gian,... Người kể chuyện cũng khơi dậy ở người đọc những suy tư về ý nghĩa mà truyện kể có thể gợi ra.",
+  "ban_doc": "Truyện kể chỉ tồn tại khi có người kể chuyện. Trong nhiều loại hình tự sự dân gian, người kể chuyện có thể là người trực tiếp diễn xướng để kể lại câu chuyện cho công chúng. Trong các hình thức tự sự của văn học viết, người kể chuyện là vai hay đại diện mà nhà văn tạo ra để thay mình thực hiện việc kể chuyện. Nhờ người kể chuyện, người đọc được dẫn dắt vào thế giới nghệ thuật của truyện kể để tri nhận về nhân vật, sự kiện, không gian, thời gian, Người kể chuyện cũng khơi dậy ở người đọc những suy tư về ý nghĩa mà truyện kể có thể gợi ra."
+ },
+ {
+  "ma": "M13.03",
+  "cho": "Mục 13 · Người kể chuyện và lời người kể chuyện · lí thuyết",
+  "nguon": "CV",
+  "doc": "Người kể chuyện: \"vai\" do nhà văn tạo ra để dẫn dắt người đọc; chú ý người kể chuyện ngôi thứ ba.",
+  "ban_doc": "Người kể chuyện: vai do nhà văn tạo ra để dẫn dắt người đọc; chú ý người kể chuyện ngôi thứ ba."
+ },
+ {
+  "ma": "M13.04",
+  "cho": "Mục 13 · Người kể chuyện và lời người kể chuyện · lí thuyết",
+  "nguon": "CV",
+  "doc": "người kể chuyện ngôi thứ ba: loại hình tượng người kể chuyện xuất hiện từ rất sớm trong những hình thức tự sự cổ xưa; tuy ẩn danh, náu mình, không trực tiếp tham gia vào câu chuyện nhưng nhiều khi có vẻ như biết rõ mọi điều, kể cả nội tâm sâu kín hay những điều bí mật của mọi nhân vật.",
+  "ban_doc": "người kể chuyện ngôi thứ ba: loại hình tượng người kể chuyện xuất hiện từ rất sớm trong những hình thức tự sự cổ xưa; tuy ẩn danh, náu mình, không trực tiếp tham gia vào câu chuyện nhưng nhiều khi có vẻ như biết rõ mọi điều, kể cả nội tâm sâu kín hay những điều bí mật của mọi nhân vật."
+ },
+ {
+  "ma": "M13.05",
+  "cho": "Mục 13 · Người kể chuyện và lời người kể chuyện · lí thuyết",
+  "nguon": "CV",
+  "doc": "Lời người kể chuyện là lời kể, tả, bình luận của người kể chuyện, có chức năng khắc hoạ bối cảnh, thời gian, không gian, miêu tả sự việc, nhân vật, thể hiện cách nhìn nhận, thái độ đánh giá đối với sự việc, nhân vật.",
+  "ban_doc": "Lời người kể chuyện là lời kể, tả, bình luận của người kể chuyện, có chức năng khắc hoạ bối cảnh, thời gian, không gian, miêu tả sự việc, nhân vật, thể hiện cách nhìn nhận, thái độ đánh giá đối với sự việc, nhân vật."
+ },
+ {
+  "ma": "M13.06",
+  "cho": "Mục 13 · Người kể chuyện và lời người kể chuyện · câu hỏi C13_Q1",
+  "nguon": "CV",
+  "doc": "Ở câu 'Không hiểu sau đó rồi vị thần ấy chết hay sống', người kể chuyện đã làm gì?",
+  "ban_doc": "Ở câu 'Không hiểu sau đó rồi vị thần ấy chết hay sống', người kể chuyện đã làm gì?"
+ },
+ {
+  "ma": "M13.07",
+  "cho": "Mục 13 · Người kể chuyện và lời người kể chuyện · phân tích sau C13_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Ngôi thứ ba, ẩn danh, không tham gia vào câu chuyện → Người kể không xưng \"tôi\" mà gọi nhân vật là \"vị thần ấy\".",
+  "ban_doc": "Ngôi thứ ba, ẩn danh, không tham gia vào câu chuyện, Người kể không xưng tôi mà gọi nhân vật là vị thần ấy."
+ },
+ {
+  "ma": "M13.08",
+  "cho": "Mục 13 · Người kể chuyện và lời người kể chuyện · phân tích sau C13_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "\"Nhiều khi có vẻ như biết rõ mọi điều\" → Ở đoạn này, người kể thừa nhận giới hạn (\"Không hiểu sau đó rồi vị thần ấy chết hay sống\") và dựa vào điều \"dân gian kể\".",
+  "ban_doc": "Nhiều khi có vẻ như biết rõ mọi điều, Ở đoạn này, người kể thừa nhận giới hạn (Không hiểu sau đó rồi vị thần ấy chết hay sống) và dựa vào điều dân gian kể."
+ },
+ {
+  "ma": "M13.09",
+  "cho": "Mục 13 · Người kể chuyện và lời người kể chuyện · câu hỏi C13_Q2",
+  "nguon": "CV",
+  "doc": "Mỗi phần của lời bình luận dưới đây thực hiện chức năng nào?",
+  "ban_doc": "Mỗi phần của lời bình luận dưới đây thực hiện chức năng nào?"
+ },
+ {
+  "ma": "M13.10",
+  "cho": "Mục 13 · Người kể chuyện và lời người kể chuyện · phân tích sau C13_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Lời bình luận → \"Câu hát ấy chỉ là để so sánh tài năng của các thần nhưng cũng cho ta biết một phần nào công việc hồi khai thiên lập địa.\"",
+  "ban_doc": "Lời bình luận, Câu hát ấy chỉ là để so sánh tài năng của các thần nhưng cũng cho ta biết một phần nào công việc hồi khai thiên lập địa."
+ },
+ {
+  "ma": "M13.11",
+  "cho": "Mục 13 · Người kể chuyện và lời người kể chuyện · phân tích sau C13_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Chức năng thể hiện cách nhìn nhận, thái độ đánh giá → Người kể đánh giá câu hát là để \"so sánh tài năng của các thần\".",
+  "ban_doc": "Chức năng thể hiện cách nhìn nhận, thái độ đánh giá, Người kể đánh giá câu hát là để so sánh tài năng của các thần."
+ },
+ {
+  "ma": "M13.12",
+  "cho": "Mục 13 · Người kể chuyện và lời người kể chuyện · phân tích sau C13_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Chức năng khơi suy tư về ý nghĩa → Người kể chỉ ra câu hát \"cho ta biết một phần nào công việc hồi khai thiên lập địa\".",
+  "ban_doc": "Chức năng khơi suy tư về ý nghĩa, Người kể chỉ ra câu hát cho ta biết một phần nào công việc hồi khai thiên lập địa."
+ },
+ {
+  "ma": "M13.13",
+  "cho": "Mục 13 · Người kể chuyện và lời người kể chuyện · kết luận",
+  "nguon": "CV",
+  "doc": "Người kể chuyện: \"vai\" do nhà văn tạo ra để dẫn dắt người đọc; chú ý người kể chuyện ngôi thứ ba.",
+  "ban_doc": "Người kể chuyện: vai do nhà văn tạo ra để dẫn dắt người đọc; chú ý người kể chuyện ngôi thứ ba."
+ },
+ {
+  "ma": "M14.01",
+  "cho": "Mục 14 · Lời nhân vật – lời người kể chuyện · mở mục",
+  "nguon": "AI",
+  "doc": "Lời nào của người kể, lời nào là của nhân vật? Chúng ta sẽ học cách tách bạch hai dạng lời kể này.",
+  "ban_doc": "Lời nào của người kể, lời nào là của nhân vật? Chúng ta sẽ học cách tách bạch hai dạng lời kể này."
+ },
+ {
+  "ma": "M14.02",
+  "cho": "Mục 14 · Lời nhân vật – lời người kể chuyện · lí thuyết",
+  "nguon": "CV",
+  "doc": "lời nhân vật: lời của nhân vật được tái hiện trong tác phẩm văn học, phân biệt với lời người kể chuyện.",
+  "ban_doc": "lời nhân vật: lời của nhân vật được tái hiện trong tác phẩm văn học, phân biệt với lời người kể chuyện."
+ },
+ {
+  "ma": "M14.03",
+  "cho": "Mục 14 · Lời nhân vật – lời người kể chuyện · lí thuyết",
+  "nguon": "CV",
+  "doc": "Lời của người kể chuyện phân biệt với lời nhân vật – thuật ngữ chỉ lời nói gắn với ý thức và cách thể hiện của nhân vật bằng hình thức lời nói trực tiếp hay gián tiếp.",
+  "ban_doc": "Lời của người kể chuyện phân biệt với lời nhân vật, thuật ngữ chỉ lời nói gắn với ý thức và cách thể hiện của nhân vật bằng hình thức lời nói trực tiếp hay gián tiếp."
+ },
+ {
+  "ma": "M14.04",
+  "cho": "Mục 14 · Lời nhân vật – lời người kể chuyện · câu hỏi C14_Q1",
+  "nguon": "CV",
+  "doc": "Ví dụ 1 được chia sẵn thành 4 đoạn, đánh số trên màn hình:",
+  "ban_doc": "Ví dụ một được chia sẵn thành bốn đoạn, đánh số trên màn hình:"
+ },
+ {
+  "ma": "M14.05",
+  "cho": "Mục 14 · Lời nhân vật – lời người kể chuyện · câu hỏi C14_Q2",
+  "nguon": "CV",
+  "doc": "Lời của thần Gió được tái hiện theo hình thức nào?",
+  "ban_doc": "Lời của thần Gió được tái hiện theo hình thức nào?"
+ },
+ {
+  "ma": "M14.06",
+  "cho": "Mục 14 · Lời nhân vật – lời người kể chuyện · phân tích sau C14_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Lời của nhân vật được tái hiện → Lời \"thú thật\" của thần Gió.",
+  "ban_doc": "Lời của nhân vật được tái hiện, Lời thú thật của thần Gió."
+ },
+ {
+  "ma": "M14.07",
+  "cho": "Mục 14 · Lời nhân vật – lời người kể chuyện · phân tích sau C14_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Hình thức gián tiếp → Nội dung lời nói (\"có đứa con ở nhà nghịch bậy\") được người kể thuật lại, không đặt trong ngoặc kép hay sau dấu gạch đầu dòng.",
+  "ban_doc": "Hình thức gián tiếp, Nội dung lời nói (có đứa con ở nhà nghịch bậy) được người kể thuật lại, không đặt trong ngoặc kép hay sau dấu gạch đầu dòng."
+ },
+ {
+  "ma": "M14.08",
+  "cho": "Mục 14 · Lời nhân vật – lời người kể chuyện · phân tích sau C14_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Gắn với ý thức và cách thể hiện của nhân vật → Thần nhận lỗi và gọi việc làm của con là \"nghịch bậy\".",
+  "ban_doc": "Gắn với ý thức và cách thể hiện của nhân vật, Thần nhận lỗi và gọi việc làm của con là nghịch bậy."
+ },
+ {
+  "ma": "M14.09",
+  "cho": "Mục 14 · Lời nhân vật – lời người kể chuyện · phân tích sau C14_Q2 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Phân biệt với lời người kể chuyện → Câu trước (\"Ngọc Hoàng nghe rõ câu chuyện mới đòi thần Gió đến quở trách\") là lời người kể; câu sau chuyển sang nội dung lời nói của thần Gió.",
+  "ban_doc": "Phân biệt với lời người kể chuyện, Câu trước (Ngọc Hoàng nghe rõ câu chuyện mới đòi thần Gió đến quở trách) là lời người kể; câu sau chuyển sang nội dung lời nói của thần Gió."
+ },
+ {
+  "ma": "M14.10",
+  "cho": "Mục 14 · Lời nhân vật – lời người kể chuyện · kết luận",
+  "nguon": "CV",
+  "doc": "lời nhân vật: lời của nhân vật được tái hiện trong tác phẩm văn học, phân biệt với lời người kể chuyện.",
+  "ban_doc": "lời nhân vật: lời của nhân vật được tái hiện trong tác phẩm văn học, phân biệt với lời người kể chuyện."
+ },
+ {
+  "ma": "M15.01",
+  "cho": "Mục 15 · Sức hấp dẫn của lối tư duy và trí tưởng tượng · mở mục",
+  "nguon": "AI",
+  "doc": "Thần Sét mạnh mẽ mà lại thua một người trần. Sức hấp dẫn của thần thoại nằm ở chính lối nghĩ hồn nhiên ấy.",
+  "ban_doc": "Thần Sét mạnh mẽ mà lại thua một người trần. Sức hấp dẫn của thần thoại nằm ở chính lối nghĩ hồn nhiên ấy."
+ },
+ {
+  "ma": "M15.02",
+  "cho": "Mục 15 · Sức hấp dẫn của lối tư duy và trí tưởng tượng · lí thuyết",
+  "nguon": "CV",
+  "doc": "Lối tư duy hồn nhiên, chất phác mà sâu sắc cùng với trí tưởng tượng bay bổng, lãng mạn đã làm nên sức cuốn hút và sức sống lâu bền cho thần thoại.",
+  "ban_doc": "Lối tư duy hồn nhiên, chất phác mà sâu sắc cùng với trí tưởng tượng bay bổng, lãng mạn đã làm nên sức cuốn hút và sức sống lâu bền cho thần thoại."
+ },
+ {
+  "ma": "M15.03",
+  "cho": "Mục 15 · Sức hấp dẫn của lối tư duy và trí tưởng tượng · lí thuyết",
+  "nguon": "CV",
+  "doc": "Gợi mở: sức hút của những câu chuyện về thần linh nằm ở trí tưởng tượng kì lạ và cách người xưa hình dung thế giới.",
+  "ban_doc": "Gợi mở: sức hút của những câu chuyện về thần linh nằm ở trí tưởng tượng kì lạ và cách người xưa hình dung thế giới."
+ },
+ {
+  "ma": "M15.04",
+  "cho": "Mục 15 · Sức hấp dẫn của lối tư duy và trí tưởng tượng · câu hỏi C15_Q1",
+  "nguon": "CV",
+  "doc": "Vị thần 'cực oai, cực dữ' vẫn 'bị thua Cường Bạo Đại vương'. Chi tiết này thể hiện điều gì?",
+  "ban_doc": "Vị thần 'cực oai, cực dữ' vẫn 'bị thua Cường Bạo Đại vương'. Chi tiết này thể hiện điều gì?"
+ },
+ {
+  "ma": "M15.05",
+  "cho": "Mục 15 · Sức hấp dẫn của lối tư duy và trí tưởng tượng · phân tích sau C15_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Tư duy hồn nhiên, chất phác → Vị thần \"cực oai, cực dữ\" vẫn \"bị thua Cường Bạo Đại vương\", tức thần linh cũng có lúc thất bại như con người.",
+  "ban_doc": "Tư duy hồn nhiên, chất phác, Vị thần cực oai, cực dữ vẫn bị thua Cường Bạo Đại vương, tức thần linh cũng có lúc thất bại như con người."
+ },
+ {
+  "ma": "M15.06",
+  "cho": "Mục 15 · Sức hấp dẫn của lối tư duy và trí tưởng tượng · phân tích sau C15_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Trí tưởng tượng bay bổng, kì lạ → Hình dung một cuộc đối đầu giữa thần Sét và một nhân vật trần gian mà \"không ai có thể tưởng tượng được\".",
+  "ban_doc": "Trí tưởng tượng bay bổng, kì lạ, Hình dung một cuộc đối đầu giữa thần Sét và một nhân vật trần gian mà không ai có thể tưởng tượng được."
+ },
+ {
+  "ma": "M15.07",
+  "cho": "Mục 15 · Sức hấp dẫn của lối tư duy và trí tưởng tượng · câu hỏi C15_Q2",
+  "nguon": "CV",
+  "doc": "Lối tư duy [ô 1] mà sâu sắc cùng với trí tưởng tượng [ô 2] đã làm nên sức cuốn hút và sức sống lâu bền cho thần thoại.",
+  "ban_doc": "Lối tư duy chỗ trống mà sâu sắc cùng với trí tưởng tượng chỗ trống đã làm nên sức cuốn hút và sức sống lâu bền cho thần thoại."
+ },
+ {
+  "ma": "M15.08",
+  "cho": "Mục 15 · Sức hấp dẫn của lối tư duy và trí tưởng tượng · kết luận",
+  "nguon": "CV",
+  "doc": "Lối tư duy hồn nhiên, chất phác mà sâu sắc cùng với trí tưởng tượng bay bổng, lãng mạn đã làm nên sức cuốn hút và sức sống lâu bền cho thần thoại.",
+  "ban_doc": "Lối tư duy hồn nhiên, chất phác mà sâu sắc cùng với trí tưởng tượng bay bổng, lãng mạn đã làm nên sức cuốn hút và sức sống lâu bền cho thần thoại."
+ },
+ {
+  "ma": "C5.MO",
+  "cho": "Mở Chặng 5 · Phân loại và cách đọc",
+  "nguon": "AI",
+  "doc": "Chặng cuối là một ngã rẽ. Bạn sẽ xếp các truyện thần thoại vào đúng nhóm, nhớ lại về thần thoại Việt Nam, và học cách đọc một truyện thần thoại.",
+  "ban_doc": "Chặng cuối là một ngã rẽ. Bạn sẽ xếp các truyện thần thoại vào đúng nhóm, nhớ lại về thần thoại Việt Nam, và học cách đọc một truyện thần thoại."
+ },
+ {
+  "ma": "M16.01",
+  "cho": "Mục 16 · Phân loại thần thoại · mở mục",
+  "nguon": "AI",
+  "doc": "Ở ngã rẽ này, chúng ta chia thần thoại thành các nhóm theo chủ đề.",
+  "ban_doc": "Ở ngã rẽ này, chúng ta chia thần thoại thành các nhóm theo chủ đề."
+ },
+ {
+  "ma": "M16.02",
+  "cho": "Mục 16 · Phân loại thần thoại · câu hỏi C16_Q1",
+  "nguon": "CV",
+  "doc": "Thần thoại được chia thành hai nhóm như sơ đồ. Theo bạn, căn cứ để chia là gì?",
+  "ban_doc": "Thần thoại được chia thành hai nhóm như sơ đồ. Theo bạn, căn cứ để chia là gì?"
+ },
+ {
+  "ma": "M16.03",
+  "cho": "Mục 16 · Phân loại thần thoại · kết luận",
+  "nguon": "CV",
+  "doc": "Phân loại theo chủ đề: thần thoại suy nguyên (lí giải nguồn gốc vũ trụ, muôn loài) và thần thoại sáng tạo (chinh phục thiên nhiên, sáng tạo văn hoá).",
+  "ban_doc": "Phân loại theo chủ đề: thần thoại suy nguyên (lí giải nguồn gốc vũ trụ, muôn loài) và thần thoại sáng tạo (chinh phục thiên nhiên, sáng tạo văn hoá)."
+ },
+ {
+  "ma": "M17.01",
+  "cho": "Mục 17 · Thần thoại suy nguyên · mở mục",
+  "nguon": "AI",
+  "doc": "Nhóm thứ nhất kể về nguồn gốc của vũ trụ và muôn loài.",
+  "ban_doc": "Nhóm thứ nhất kể về nguồn gốc của vũ trụ và muôn loài."
+ },
+ {
+  "ma": "M17.02",
+  "cho": "Mục 17 · Thần thoại suy nguyên · lí thuyết",
+  "nguon": "CV",
+  "doc": "thần thoại suy nguyên: thần thoại kể về nguồn gốc vũ trụ và muôn loài.",
+  "ban_doc": "thần thoại suy nguyên: thần thoại kể về nguồn gốc vũ trụ và muôn loài."
+ },
+ {
+  "ma": "M17.03",
+  "cho": "Mục 17 · Thần thoại suy nguyên · lí thuyết",
+  "nguon": "CV",
+  "doc": "Ở nhóm thần thoại suy nguyên, nhiều truyện có cách hình dung, lí giải về sự hình thành thế giới tự nhiên, nguồn gốc con người và vạn vật rất gần gũi với các hệ thống thần thoại khác trên thế giới. Nhân vật chính của thần thoại suy nguyên là các vị thần sáng tạo thế giới: trời đất, mặt trời, mặt trăng, sông biển, mưa, gió, sấm, sét, muôn loài.",
+  "ban_doc": "Ở nhóm thần thoại suy nguyên, nhiều truyện có cách hình dung, lí giải về sự hình thành thế giới tự nhiên, nguồn gốc con người và vạn vật rất gần gũi với các hệ thống thần thoại khác trên thế giới. Nhân vật chính của thần thoại suy nguyên là các vị thần sáng tạo thế giới: trời đất, mặt trời, mặt trăng, sông biển, mưa, gió, sấm, sét, muôn loài."
+ },
+ {
+  "ma": "M17.04",
+  "cho": "Mục 17 · Thần thoại suy nguyên · câu hỏi C17_Q1",
+  "nguon": "CV",
+  "doc": "Mỗi chi tiết dưới đây là dấu hiệu nào của thần thoại suy nguyên?",
+  "ban_doc": "Mỗi chi tiết dưới đây là dấu hiệu nào của thần thoại suy nguyên?"
+ },
+ {
+  "ma": "M17.05",
+  "cho": "Mục 17 · Thần thoại suy nguyên · phân tích sau C17_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Dấu hiệu thần thoại suy nguyên: truyện lí giải nguồn gốc trời đất, núi sông và các hiện tượng tự nhiên (sấm, sét, gió).",
+  "ban_doc": "Dấu hiệu thần thoại suy nguyên: truyện lí giải nguồn gốc trời đất, núi sông và các hiện tượng tự nhiên (sấm, sét, gió)."
+ },
+ {
+  "ma": "M17.06",
+  "cho": "Mục 17 · Thần thoại suy nguyên · phân tích sau C17_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Lí giải nguồn gốc trời đất → \"Từ đó trời đất phân ra làm hai.\" (văn bản Thần Trụ Trời)",
+  "ban_doc": "Lí giải nguồn gốc trời đất, Từ đó trời đất phân ra làm hai. (văn bản Thần Trụ Trời)."
+ },
+ {
+  "ma": "M17.07",
+  "cho": "Mục 17 · Thần thoại suy nguyên · phân tích sau C17_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Lí giải nguồn gốc núi sông → \"Mỗi hòn đá văng ra bấy giờ thành một hòn núi hay một hòn đảo\"; \"Chỗ thần đào lên để lấy đất đá đắp cột bây giờ là biển cả.\"",
+  "ban_doc": "Lí giải nguồn gốc núi sông, Mỗi hòn đá văng ra bấy giờ thành một hòn núi hay một hòn đảo; Chỗ thần đào lên để lấy đất đá đắp cột bây giờ là biển cả."
+ },
+ {
+  "ma": "M17.08",
+  "cho": "Mục 17 · Thần thoại suy nguyên · phân tích sau C17_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Lí giải hiện tượng tự nhiên (sấm, sét, gió) → Chớp rạch là lúc \"thần Sét sắp xuống\"; gió bão do thần Gió làm \"tuỳ theo lệnh Ngọc Hoàng\".",
+  "ban_doc": "Lí giải hiện tượng tự nhiên (sấm, sét, gió), Chớp rạch là lúc thần Sét sắp xuống; gió bão do thần Gió làm tuỳ theo lệnh Ngọc Hoàng."
+ },
+ {
+  "ma": "M17.09",
+  "cho": "Mục 17 · Thần thoại suy nguyên · phân tích sau C17_Q1 (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Nhân vật chính là các vị thần sáng tạo thế giới → Thần Trụ Trời, thần Sét, thần Gió.",
+  "ban_doc": "Nhân vật chính là các vị thần sáng tạo thế giới, Thần Trụ Trời, thần Sét, thần Gió."
+ },
+ {
+  "ma": "M17.10",
+  "cho": "Mục 17 · Thần thoại suy nguyên · kết luận",
+  "nguon": "CV",
+  "doc": "Dấu hiệu thần thoại suy nguyên: truyện lí giải nguồn gốc trời đất, núi sông và các hiện tượng tự nhiên (sấm, sét, gió).",
+  "ban_doc": "Dấu hiệu thần thoại suy nguyên: truyện lí giải nguồn gốc trời đất, núi sông và các hiện tượng tự nhiên (sấm, sét, gió)."
+ },
+ {
+  "ma": "M18.01",
+  "cho": "Mục 18 · Thần thoại sáng tạo · mở mục",
+  "nguon": "AI",
+  "doc": "Nhóm thứ hai kể về cuộc chinh phục thiên nhiên và sáng tạo văn hoá của con người.",
+  "ban_doc": "Nhóm thứ hai kể về cuộc chinh phục thiên nhiên và sáng tạo văn hoá của con người."
+ },
+ {
+  "ma": "M18.02",
+  "cho": "Mục 18 · Thần thoại sáng tạo · lí thuyết",
+  "nguon": "CV",
+  "doc": "thần thoại sáng tạo: thần thoại kể về cuộc chinh phục thiên nhiên và sáng tạo văn hoá của con người.",
+  "ban_doc": "thần thoại sáng tạo: thần thoại kể về cuộc chinh phục thiên nhiên và sáng tạo văn hoá của con người."
+ },
+ {
+  "ma": "M18.03",
+  "cho": "Mục 18 · Thần thoại sáng tạo · lí thuyết",
+  "nguon": "CV",
+  "doc": "Nhóm truyện thần thoại sáng tạo có nhân vật chính là các anh hùng thần thoại và anh hùng văn hoá. Kì tích của họ phản ánh vẻ đẹp riêng của cuộc sống lao động, tín ngưỡng và văn hoá của từng cộng đồng.",
+  "ban_doc": "Nhóm truyện thần thoại sáng tạo có nhân vật chính là các anh hùng thần thoại và anh hùng văn hoá. Kì tích của họ phản ánh vẻ đẹp riêng của cuộc sống lao động, tín ngưỡng và văn hoá của từng cộng đồng."
+ },
+ {
+  "ma": "M18.04",
+  "cho": "Mục 18 · Thần thoại sáng tạo · phân tích sau  (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Phân tích Ví dụ 1 và 2: \"Cốt truyện, sự kiện: hành trình của Tê-dê (nhấc tảng đá nhận cha → dẹp trừ ác nhân → diệt quái vật Mi-nô-tơ trong Mê cung → lập nền cai trị công bằng ở A-ten). / - So sánh với thần thoại suy nguyên Việt Nam để mở rộng hiểu biết thể loại.\"",
+  "ban_doc": "Phân tích Ví dụ một và hai: Cốt truyện, sự kiện: hành trình của Tê-dê (nhấc tảng đá nhận cha, dẹp trừ ác nhân, diệt quái vật Mi-nô-tơ trong Mê cung, lập nền cai trị công bằng ở A-ten). - So sánh với thần thoại suy nguyên Việt Nam để mở rộng hiểu biết thể loại."
+ },
+ {
+  "ma": "M18.05",
+  "cho": "Mục 18 · Thần thoại sáng tạo · phân tích sau  (chỉ đọc, không ghi lên màn)",
+  "nguon": "CV",
+  "doc": "Nhân vật chính là anh hùng thần thoại, anh hùng văn hoá → \"Người anh hùng vĩ đại của người A-ten là Tê-dê.\" Sáng tạo văn hoá → \"tổ chức một khối cộng đồng, lập một hội trường lớn để các công dân hội họp và biểu quyết\". Phản ánh văn hoá của cộng đồng → Câu nói lưu truyền ở A-ten: \"Không có việc gì mà không có Tê-dê\".",
+  "ban_doc": "Nhân vật chính là anh hùng thần thoại, anh hùng văn hoá, Người anh hùng vĩ đại của người A-ten là Tê-dê. Sáng tạo văn hoá, tổ chức một khối cộng đồng, lập một hội trường lớn để các công dân hội họp và biểu quyết. Phản ánh văn hoá của cộng đồng, Câu nói lưu truyền ở A-ten: Không có việc gì mà không có Tê-dê."
+ },
+ {
+  "ma": "M18.06",
+  "cho": "Mục 18 · Thần thoại sáng tạo · câu hỏi C18_Q1",
+  "nguon": "CV",
+  "doc": "Xếp sáu nhận định sau vào hai nhóm: Thần thoại suy nguyên và Thần thoại sáng tạo. Mỗi nhóm gồm 3 nhận định.",
+  "ban_doc": "Xếp sáu nhận định sau vào hai nhóm: Thần thoại suy nguyên và Thần thoại sáng tạo. Mỗi nhóm gồm ba nhận định."
+ },
+ {
+  "ma": "M18.07",
+  "cho": "Mục 18 · Thần thoại sáng tạo · kết luận",
+  "nguon": "CV",
+  "doc": "Cốt truyện, sự kiện: hành trình của Tê-dê (nhấc tảng đá nhận cha → dẹp trừ ác nhân → diệt quái vật Mi-nô-tơ trong Mê cung → lập nền cai trị công bằng ở A-ten). / - So sánh với thần thoại suy nguyên Việt Nam để mở rộng hiểu biết thể loại.",
+  "ban_doc": "Cốt truyện, sự kiện: hành trình của Tê-dê (nhấc tảng đá nhận cha, dẹp trừ ác nhân, diệt quái vật Mi-nô-tơ trong Mê cung, lập nền cai trị công bằng ở A-ten). - So sánh với thần thoại suy nguyên Việt Nam để mở rộng hiểu biết thể loại."
+ },
+ {
+  "ma": "M19.01",
+  "cho": "Mục 19 · Thần thoại Việt Nam · mở mục",
+  "nguon": "AI",
+  "doc": "Thần thoại Việt Nam là một kho di sản. Hãy cùng nhìn lại kho di sản ấy.",
+  "ban_doc": "Thần thoại Việt Nam là một kho di sản. Hãy cùng nhìn lại kho di sản ấy."
+ },
+ {
+  "ma": "M19.02",
+  "cho": "Mục 19 · Thần thoại Việt Nam · thẻ",
+  "nguon": "CV",
+  "doc": "Thần thoại Việt Nam cho đến nay, mặc dù đã bị mai một ít nhiều, vẫn là một di sản phong phú với hàng trăm truyện kể của người Kinh và các dân tộc thiểu số. Trong một số bộ sách mang tính chất sưu tầm, tuyển chọn, nhiều thần thoại đã được đặt lẫn với các truyền thuyết, cổ tích, do vậy, màu sắc riêng của thần thoại ít nhiều bị làm mờ nhạt.",
+  "ban_doc": "Thần thoại Việt Nam cho đến nay, mặc dù đã bị mai một ít nhiều, vẫn là một di sản phong phú với hàng trăm truyện kể của người Kinh và các dân tộc thiểu số. Trong một số bộ sách mang tính chất sưu tầm, tuyển chọn, nhiều thần thoại đã được đặt lẫn với các truyền thuyết, cổ tích, do vậy, màu sắc riêng của thần thoại ít nhiều bị làm mờ nhạt."
+ },
+ {
+  "ma": "M19.03",
+  "cho": "Mục 19 · Thần thoại Việt Nam · thẻ (tiêu đề)",
+  "nguon": "CV",
+  "doc": "Nhận định trong văn bản nghị luận Nhìn về vốn văn hoá dân tộc (Trần Đình Hượu)",
+  "ban_doc": "Nhận định trong văn bản nghị luận Nhìn về vốn văn hoá dân tộc (Trần Đình Hượu)."
+ },
+ {
+  "ma": "M19.04",
+  "cho": "Mục 19 · Thần thoại Việt Nam · thẻ",
+  "nguon": "CV",
+  "doc": "Ở ta, thần thoại không phong phú – hay là có nhưng một thời gian nào đó đã mất hứng thú lưu truyền?",
+  "ban_doc": "Ở ta, thần thoại không phong phú, hay là có nhưng một thời gian nào đó đã mất hứng thú lưu truyền?"
+ },
+ {
+  "ma": "M19.05",
+  "cho": "Mục 19 · Thần thoại Việt Nam · lời hệ thống",
+  "nguon": "CV",
+  "doc": "Bạn hãy đọc hai nhận định trên về thần thoại Việt Nam.",
+  "ban_doc": "Bạn hãy đọc hai nhận định trên về thần thoại Việt Nam."
+ },
+ {
+  "ma": "M19.06",
+  "cho": "Mục 19 · Thần thoại Việt Nam · kết luận",
+  "nguon": "CV",
+  "doc": "Thần thoại Việt Nam cho đến nay, mặc dù đã bị mai một ít nhiều, vẫn là một di sản phong phú với hàng trăm truyện kể của người Kinh và các dân tộc thiểu số. Trong một số bộ sách mang tính chất sưu tầm, tuyển chọn, nhiều thần thoại đã được đặt lẫn với các truyền thuyết, cổ tích, do vậy, màu sắc riêng của thần thoại ít nhiều bị làm mờ nhạt.",
+  "ban_doc": "Thần thoại Việt Nam cho đến nay, mặc dù đã bị mai một ít nhiều, vẫn là một di sản phong phú với hàng trăm truyện kể của người Kinh và các dân tộc thiểu số. Trong một số bộ sách mang tính chất sưu tầm, tuyển chọn, nhiều thần thoại đã được đặt lẫn với các truyền thuyết, cổ tích, do vậy, màu sắc riêng của thần thoại ít nhiều bị làm mờ nhạt."
+ },
+ {
+  "ma": "M20.01",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · mở mục",
+  "nguon": "AI",
+  "doc": "Bạn đã có đủ hành trang. Giờ chúng ta hãy gom lại thành các bước đọc hiểu một truyện thần thoại.",
+  "ban_doc": "Bạn đã có đủ hành trang. Giờ chúng ta hãy gom lại thành các bước đọc hiểu một truyện thần thoại."
+ },
+ {
+  "ma": "M20.02",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · lời hệ thống",
+  "nguon": "CV",
+  "doc": "Trước khi xem lại cách đọc truyện thần thoại, bạn thử sắp xếp 7 bước dưới đây theo đúng trình tự nhé.",
+  "ban_doc": "Trước khi xem lại cách đọc truyện thần thoại, bạn thử sắp xếp bảy bước dưới đây theo đúng trình tự nhé."
+ },
+ {
+  "ma": "M20.03",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 1",
+  "nguon": "CV",
+  "doc": "Bước 1. Xác định thời gian, không gian của câu chuyện.",
+  "ban_doc": "Bước một. Xác định thời gian, không gian của câu chuyện."
+ },
+ {
+  "ma": "M20.04",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 1",
+  "nguon": "CV",
+  "doc": "Chú ý các chi tiết mở đầu và những từ ngữ chỉ thời gian, không gian. Nhận diện tính ước lệ, phiếm chỉ của thời gian; không gian vũ trụ, thiên nhiên rộng lớn hoặc bối cảnh gắn với hoạt động của thần, người anh hùng.",
+  "ban_doc": "Chú ý các chi tiết mở đầu và những từ ngữ chỉ thời gian, không gian. Nhận diện tính ước lệ, phiếm chỉ của thời gian; không gian vũ trụ, thiên nhiên rộng lớn hoặc bối cảnh gắn với hoạt động của thần, người anh hùng."
+ },
+ {
+  "ma": "M20.05",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 1",
+  "nguon": "CV",
+  "doc": "Làm rõ bối cảnh ấy phù hợp với câu chuyện về nguồn gốc thế giới hoặc những kì tích như thế nào.",
+  "ban_doc": "Làm rõ bối cảnh ấy phù hợp với câu chuyện về nguồn gốc thế giới hoặc những kì tích như thế nào."
+ },
+ {
+  "ma": "M20.06",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 2",
+  "nguon": "CV",
+  "doc": "Bước 2. Nắm cốt truyện, sự kiện chính và xác định nhóm truyện.",
+  "ban_doc": "Bước hai. Nắm cốt truyện, sự kiện chính và xác định nhóm truyện."
+ },
+ {
+  "ma": "M20.07",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 2",
+  "nguon": "CV",
+  "doc": "Tóm tắt các sự kiện chính theo trình tự; xác định câu chuyện tập trung vào việc hình thành thế giới, muôn loài, các hiện tượng tự nhiên hay những chiến công, thử thách của người anh hùng.",
+  "ban_doc": "Tóm tắt các sự kiện chính theo trình tự; xác định câu chuyện tập trung vào việc hình thành thế giới, muôn loài, các hiện tượng tự nhiên hay những chiến công, thử thách của người anh hùng."
+ },
+ {
+  "ma": "M20.08",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 2",
+  "nguon": "CV",
+  "doc": "Từ đó, nhận diện truyện thuộc nhóm thần thoại suy nguyên, sáng tạo. Dựa vào nội dung trung tâm, không chỉ căn cứ vào sự xuất hiện của một vị thần.",
+  "ban_doc": "Từ đó, nhận diện truyện thuộc nhóm thần thoại suy nguyên, sáng tạo. Dựa vào nội dung trung tâm, không chỉ căn cứ vào sự xuất hiện của một vị thần."
+ },
+ {
+  "ma": "M20.09",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 3",
+  "nguon": "CV",
+  "doc": "Bước 3. Phân tích hình tượng thần hoặc người anh hùng.",
+  "ban_doc": "Bước ba. Phân tích hình tượng thần hoặc người anh hùng."
+ },
+ {
+  "ma": "M20.10",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 3",
+  "nguon": "CV",
+  "doc": "Tìm chi tiết về nguồn gốc, hình dạng, vóc dáng, tính khí, năng lực, công việc và hành động của nhân vật. Xác định nhân vật thực hiện chức năng gì trong câu chuyện; qua đó làm rõ đặc điểm, phẩm chất nổi bật.",
+  "ban_doc": "Tìm chi tiết về nguồn gốc, hình dạng, vóc dáng, tính khí, năng lực, công việc và hành động của nhân vật. Xác định nhân vật thực hiện chức năng gì trong câu chuyện; qua đó làm rõ đặc điểm, phẩm chất nổi bật."
+ },
+ {
+  "ma": "M20.11",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 3",
+  "nguon": "CV",
+  "doc": "Vận dụng các chỉ dẫn phù hợp với từng văn bản:",
+  "ban_doc": "Vận dụng các chỉ dẫn phù hợp với từng văn bản:"
+ },
+ {
+  "ma": "M20.12",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 3",
+  "nguon": "CV",
+  "doc": "Với Thần Trụ Trời, hình dung vóc dáng, hành động của thần; chú ý những vị thần được liệt kê trong bài vè và công việc gắn với họ.",
+  "ban_doc": "Với Thần Trụ Trời, hình dung vóc dáng, hành động của thần; chú ý những vị thần được liệt kê trong bài vè và công việc gắn với họ."
+ },
+ {
+  "ma": "M20.13",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 3",
+  "nguon": "CV",
+  "doc": "Với Thần Sét, chú ý các chi tiết miêu tả công việc và tính khí.",
+  "ban_doc": "Với Thần Sét, chú ý các chi tiết miêu tả công việc và tính khí."
+ },
+ {
+  "ma": "M20.14",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 3",
+  "nguon": "CV",
+  "doc": "Với Thần Gió, chú ý hình dạng, hoạt động của thần; lí giải mục đích xây dựng nhân vật đứa con thần Gió.",
+  "ban_doc": "Với Thần Gió, chú ý hình dạng, hoạt động của thần; lí giải mục đích xây dựng nhân vật đứa con thần Gió."
+ },
+ {
+  "ma": "M20.15",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 3",
+  "nguon": "CV",
+  "doc": "Với Tê-dê, phân tích phẩm chất của nhân vật qua hành động, thử thách và chiến công; từ đó tìm hiểu quan niệm về người anh hùng của người Hy Lạp thời cổ đại.",
+  "ban_doc": "Với Tê-dê, phân tích phẩm chất của nhân vật qua hành động, thử thách và chiến công; từ đó tìm hiểu quan niệm về người anh hùng của người Hy Lạp thời cổ đại."
+ },
+ {
+  "ma": "M20.16",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 4",
+  "nguon": "CV",
+  "doc": "Bước 4. Lí giải cơ sở hình thành hình tượng và trí tưởng tượng thần thoại.",
+  "ban_doc": "Bước bốn. Lí giải cơ sở hình thành hình tượng và trí tưởng tượng thần thoại."
+ },
+ {
+  "ma": "M20.17",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 4",
+  "nguon": "CV",
+  "doc": "Đối chiếu hình dạng, tính khí, công việc của nhân vật với đặc điểm của hiện tượng tự nhiên hoặc đời sống được phản ánh. Tự hỏi: người xưa đã quan sát điều gì và tưởng tượng như thế nào để tạo nên hình tượng ấy?",
+  "ban_doc": "Đối chiếu hình dạng, tính khí, công việc của nhân vật với đặc điểm của hiện tượng tự nhiên hoặc đời sống được phản ánh. Tự hỏi: người xưa đã quan sát điều gì và tưởng tượng như thế nào để tạo nên hình tượng ấy?"
+ },
+ {
+  "ma": "M20.18",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 4",
+  "nguon": "CV",
+  "doc": "Làm rõ sự kết hợp giữa quan sát thực tế, kinh nghiệm sống và trí tưởng tượng. Chú ý cách người xưa hình dung tự nhiên có linh hồn, ý chí, tính cách như con người; nhận diện niềm tin \"vạn vật hữu linh\" khi có căn cứ trong văn bản.",
+  "ban_doc": "Làm rõ sự kết hợp giữa quan sát thực tế, kinh nghiệm sống và trí tưởng tượng. Chú ý cách người xưa hình dung tự nhiên có linh hồn, ý chí, tính cách như con người; nhận diện niềm tin vạn vật hữu linh khi có căn cứ trong văn bản."
+ },
+ {
+  "ma": "M20.19",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 5",
+  "nguon": "CV",
+  "doc": "Bước 5. Phân tích nghệ thuật kể chuyện và xây dựng nhân vật.",
+  "ban_doc": "Bước năm. Phân tích nghệ thuật kể chuyện và xây dựng nhân vật."
+ },
+ {
+  "ma": "M20.20",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 5",
+  "nguon": "CV",
+  "doc": "Chọn những biểu hiện nổi bật để phân tích:",
+  "ban_doc": "Chọn những biểu hiện nổi bật để phân tích:"
+ },
+ {
+  "ma": "M20.21",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 5",
+  "nguon": "CV",
+  "doc": "Cốt truyện đơn giản mà sinh động, tập trung vào sự kiện hoặc hành động tiêu biểu.",
+  "ban_doc": "Cốt truyện đơn giản mà sinh động, tập trung vào sự kiện hoặc hành động tiêu biểu."
+ },
+ {
+  "ma": "M20.22",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 5",
+  "nguon": "CV",
+  "doc": "Nhân vật mang tính chức năng, có vóc dáng, sức mạnh hoặc khả năng kì vĩ.",
+  "ban_doc": "Nhân vật mang tính chức năng, có vóc dáng, sức mạnh hoặc khả năng kì vĩ."
+ },
+ {
+  "ma": "M20.23",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 5",
+  "nguon": "CV",
+  "doc": "Các yếu tố phóng đại, kì ảo trong hình dạng, hành động và sự kiện.",
+  "ban_doc": "Các yếu tố phóng đại, kì ảo trong hình dạng, hành động và sự kiện."
+ },
+ {
+  "ma": "M20.24",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 5",
+  "nguon": "CV",
+  "doc": "Thời gian phiếm chỉ, không gian vũ trụ hoặc bối cảnh phù hợp với hoạt động của nhân vật.",
+  "ban_doc": "Thời gian phiếm chỉ, không gian vũ trụ hoặc bối cảnh phù hợp với hoạt động của nhân vật."
+ },
+ {
+  "ma": "M20.25",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 5",
+  "nguon": "CV",
+  "doc": "Chỉ ra tác dụng của các yếu tố ấy đối với việc khắc họa nhân vật, lí giải thế giới và tạo sức hấp dẫn. Với truyện Tê-dê, chú ý thêm cách tổ chức thử thách, chiến công và những diễn biến làm nổi bật người anh hùng.",
+  "ban_doc": "Chỉ ra tác dụng của các yếu tố ấy đối với việc khắc họa nhân vật, lí giải thế giới và tạo sức hấp dẫn. Với truyện Tê-dê, chú ý thêm cách tổ chức thử thách, chiến công và những diễn biến làm nổi bật người anh hùng."
+ },
+ {
+  "ma": "M20.26",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 6",
+  "nguon": "CV",
+  "doc": "Bước 6. Khái quát chức năng, ý nghĩa và quan niệm của người xưa.",
+  "ban_doc": "Bước sáu. Khái quát chức năng, ý nghĩa và quan niệm của người xưa."
+ },
+ {
+  "ma": "M20.27",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 6",
+  "nguon": "CV",
+  "doc": "Từ các sự kiện, nhân vật và nghệ thuật đã phân tích, xác định câu chuyện lí giải điều gì, phản ánh cách nhận thức nào về thế giới.",
+  "ban_doc": "Từ các sự kiện, nhân vật và nghệ thuật đã phân tích, xác định câu chuyện lí giải điều gì, phản ánh cách nhận thức nào về thế giới."
+ },
+ {
+  "ma": "M20.28",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 6",
+  "nguon": "CV",
+  "doc": "Làm rõ quan niệm, thái độ và khát vọng được gửi gắm: mong muốn giải thích nguồn gốc tự nhiên, khát vọng chinh phục tự nhiên, niềm tin vào các lực lượng siêu nhiên hoặc sự ngưỡng mộ những phẩm chất anh hùng. Chọn nội dung phù hợp với từng truyện, không áp dụng đồng loạt mọi ý nghĩa.",
+  "ban_doc": "Làm rõ quan niệm, thái độ và khát vọng được gửi gắm: mong muốn giải thích nguồn gốc tự nhiên, khát vọng chinh phục tự nhiên, niềm tin vào các lực lượng siêu nhiên hoặc sự ngưỡng mộ những phẩm chất anh hùng. Chọn nội dung phù hợp với từng truyện, không áp dụng đồng loạt mọi ý nghĩa."
+ },
+ {
+  "ma": "M20.29",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 7",
+  "nguon": "CV",
+  "doc": "Bước 7. So sánh để mở rộng hiểu biết về thể loại.",
+  "ban_doc": "Bước bảy. So sánh để mở rộng hiểu biết về thể loại."
+ },
+ {
+  "ma": "M20.30",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 7",
+  "nguon": "CV",
+  "doc": "So sánh văn bản đang đọc với thần thoại suy nguyên Việt Nam trên những phương diện phù hợp: đối tượng được lí giải, thời gian, không gian, nhân vật, sự kiện và yếu tố kì ảo.",
+  "ban_doc": "So sánh văn bản đang đọc với thần thoại suy nguyên Việt Nam trên những phương diện phù hợp: đối tượng được lí giải, thời gian, không gian, nhân vật, sự kiện và yếu tố kì ảo."
+ },
+ {
+  "ma": "M20.31",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 7",
+  "nguon": "CV",
+  "doc": "Chỉ ra điểm tương đồng, khác biệt trong cách hình dung thế giới và quan niệm về con người; qua đó nhận ra đặc điểm chung của thần thoại và nét riêng trong trí tưởng tượng, văn hóa của từng cộng đồng.",
+  "ban_doc": "Chỉ ra điểm tương đồng, khác biệt trong cách hình dung thế giới và quan niệm về con người; qua đó nhận ra đặc điểm chung của thần thoại và nét riêng trong trí tưởng tượng, văn hóa của từng cộng đồng."
+ },
+ {
+  "ma": "M20.32",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · Bước 7",
+  "nguon": "CV",
+  "doc": "Điều kiện chuyển màn: đã mở ít nhất Bước 2 và Bước 3.",
+  "ban_doc": "Điều kiện chuyển màn: đã mở ít nhất Bước hai và Bước ba."
+ },
+ {
+  "ma": "M20.33",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · câu hỏi C20_Q2",
+  "nguon": "CV",
+  "doc": "Theo Bước 2, để nhận diện một truyện thuộc nhóm nào, bạn cần dựa vào đâu?",
+  "ban_doc": "Theo Bước hai, để nhận diện một truyện thuộc nhóm nào, bạn cần dựa vào đâu?"
+ },
+ {
+  "ma": "M20.34",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · câu hỏi C20_Q3",
+  "nguon": "CV",
+  "doc": "Mỗi chỉ dẫn đọc dưới đây dành cho văn bản nào?",
+  "ban_doc": "Mỗi chỉ dẫn đọc dưới đây dành cho văn bản nào?"
+ },
+ {
+  "ma": "M20.35",
+  "cho": "Mục 20 · Phương pháp đọc hiểu · kết luận",
+  "nguon": "CV",
+  "doc": "Cách đọc thần thoại: xác định thời gian – không gian ước lệ → phân loại truyện → nhận diện sự kiện, nhân vật, nghệ thuật → lí giải cơ sở hình thành hình tượng → khái quát chức năng, ý nghĩa, thái độ của người xưa.",
+  "ban_doc": "Cách đọc thần thoại: xác định thời gian, không gian ước lệ, phân loại truyện, nhận diện sự kiện, nhân vật, nghệ thuật, lí giải cơ sở hình thành hình tượng, khái quát chức năng, ý nghĩa, thái độ của người xưa."
+ },
+ {
+  "ma": "M21.01",
+  "cho": "Mục 21 · Tổng hợp · mở mục",
+  "nguon": "AI",
+  "doc": "Cây kiến thức đã nở hoa. Bạn hãy tự nhìn lại từng mục, đánh dấu chỗ bạn đã nắm vững, và những chỗ cần xem lại.",
+  "ban_doc": "Cây kiến thức đã nở hoa. Bạn hãy tự nhìn lại từng mục, đánh dấu chỗ bạn đã nắm vững, và những chỗ cần xem lại."
+ },
+ {
+  "ma": "M21.02",
+  "cho": "Mục 21 · Tổng hợp · lời hệ thống",
+  "nguon": "CV",
+  "doc": "Bạn hãy mở từng mục, đọc lại kết luận và tự đánh giá mức độ nắm vững của mình.",
+  "ban_doc": "Bạn hãy mở từng mục, đọc lại kết luận và tự đánh giá mức độ nắm vững của mình."
+ },
+ {
+  "ma": "M21.03",
+  "cho": "Mục 21 · Tổng hợp · lời hệ thống",
+  "nguon": "CV",
+  "doc": "Nếu danh sách trống: \"Bạn đã tự đánh giá nắm chắc toàn bộ các mục. Bạn có thể mở lại bất kỳ chặng nào từ sơ đồ.\" Nếu danh sách có mục: \"Đây là các mục bạn cần xem lại. Bạn hãy chọn một mục để quay lại chặng tương ứng.\"",
+  "ban_doc": "Nếu danh sách trống: Bạn đã tự đánh giá nắm chắc toàn bộ các mục. Bạn có thể mở lại bất kỳ chặng nào từ sơ đồ. Nếu danh sách có mục: Đây là các mục bạn cần xem lại. Bạn hãy chọn một mục để quay lại chặng tương ứng."
+ },
+ {
+  "ma": "C5.KET",
+  "cho": "Hết Chặng 5 (lời kết cả bài)",
+  "nguon": "AI",
+  "doc": "Vậy là chúng ta đã đi từ thuở hỗn mang đến khi vũ trụ có hình hài. Những mục bạn đánh dấu vẫn luôn ở đây, trên cây kiến thức, để bạn mở lại khi cần nhé bạn ơi.",
+  "ban_doc": "Vậy là chúng ta đã đi từ thuở hỗn mang đến khi vũ trụ có hình hài. Những mục bạn đánh dấu vẫn luôn ở đây, trên cây kiến thức, để bạn mở lại khi cần nhé bạn ơi."
+ }
+]
